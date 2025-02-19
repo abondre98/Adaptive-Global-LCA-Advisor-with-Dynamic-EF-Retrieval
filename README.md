@@ -41,10 +41,3 @@ This system integrates structured datasets containing **region-specific emission
 3. **Internal Fine-Tuning Dataset:**  
    - Historical EF selections from **manual audit logs**.  
    - Region-wise LCA study data from open-access research. 
-
-Climate TRACE API – Live updates for industry-specific emissions.
-National GHG Inventories – Country-wise emission datasets for regulatory compliance.
-Internal Fine-Tuning Dataset:
-
-Historical EF selections from manual audit logs.
-Region-wise LCA study data from open-access research.

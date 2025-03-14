@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files
+*.py text diff=python
+
+# Jupyter notebooks
+*.ipynb text
+
+# CSV files
+*.csv text
+
+# Binary files
+*.jar binary
+*.pdf binary

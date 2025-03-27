@@ -1,10 +1,34 @@
-# Adaptive Global LCA Advisor - Data Extraction and Harmonization
+# Adaptive Global LCA Advisor with Dynamic EF Retrieval
 
-This project implements a data extraction, cleaning, and harmonization pipeline for creating a unified global emission factor dataset from multiple sources. The pipeline processes data from various emission factor databases and creates a standardized, harmonized dataset that can be used for life cycle assessment (LCA) calculations.
+## Carbon Footprint Recommendation System
 
-## Project Overview
+## Overview
 
-The Adaptive Global LCA Advisor aims to develop an AI system that recommends region-specific emission factors (EFs) for accurate carbon accounting. This system addresses limitations in existing solutions like static datasets and single region focus. The project combines data from multiple sources to create a comprehensive global emission factor dataset.
+This project aims to develop an AI-powered system that provides region-specific **emission factor (EF)** recommendations for accurate carbon accounting. The approach integrates **fine-tuned LLMs** with **dynamic Retrieval-Augmented Generation (RAG)** to enable real-time EF updates.
+
+## Business Use Case
+
+### Problem Statement
+
+- A significant percentage of food products lack environmental impact labels, leading to **inconsistent carbon footprint calculations**.
+- Manual selection of emission factors introduces **15-30% error rates** due to outdated or regionally incorrect data.
+- Regulatory requirements, such as the **EU Carbon Border Adjustment Mechanism (CBAM)**, necessitate **precise regional EF mapping** for compliance.
+
+### Solution
+
+- **Automated EF recommendations** tailored to specific regions (e.g., wheat production in different countries).
+- **Real-time EF retrieval** leveraging AI and structured databases.
+- **Web and mobile interface** for supply chain managers and auditors.
+
+## Technical Components
+
+| Component                | Technology Stack                  |
+| ------------------------ | --------------------------------- |
+| **Base LLM**             | Mistral-7B (fine-tuned with LoRA) |
+| **Vector Database**      | RedisVL, FAISS                    |
+| **Knowledge Graph**      | Neo4j                             |
+| **Quantized Deployment** | TinyLlama (4-bit GGUF)            |
+| **Real-Time EF Updates** | Climate TRACE API                 |
 
 ## Fine-tuning Mistral-7B for Emission Factor Recommendations
 

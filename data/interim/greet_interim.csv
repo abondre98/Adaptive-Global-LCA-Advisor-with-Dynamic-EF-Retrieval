@@ -1,0 +1,234 @@
+fuel_pathway,emission_type,vehicle_technology,ghg_emissions,unit,year,region,confidence
+Conventional Gasoline,Well-to-Pump,Not Applicable,21.92,g CO2e/MJ,2022,US,0.84
+Conventional Gasoline,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),62.33,g CO2e/MJ,2022,US,0.88
+Conventional Gasoline,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),84.25,g CO2e/MJ,2022,US,0.73
+Conventional Gasoline,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),38.85,g CO2e/MJ,2022,US,0.88
+Conventional Gasoline,Well-to-Wheel,Hybrid Electric Vehicle (HEV),60.77,g CO2e/MJ,2022,US,0.8
+Conventional Gasoline,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),47.33,g CO2e/MJ,2022,US,0.81
+Conventional Gasoline,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),69.25,g CO2e/MJ,2022,US,0.8
+Conventional Gasoline,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),66.39,g CO2e/MJ,2022,US,0.73
+Conventional Gasoline,Well-to-Wheel,Flexible Fuel Vehicle (FFV),88.32,g CO2e/MJ,2022,US,0.77
+Reformulated Gasoline,Well-to-Pump,Not Applicable,27.76,g CO2e/MJ,2022,US,0.78
+Reformulated Gasoline,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),56.78,g CO2e/MJ,2022,US,0.81
+Reformulated Gasoline,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),84.54,g CO2e/MJ,2022,US,0.86
+Reformulated Gasoline,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),36.92,g CO2e/MJ,2022,US,0.87
+Reformulated Gasoline,Well-to-Wheel,Hybrid Electric Vehicle (HEV),64.68,g CO2e/MJ,2022,US,0.85
+Reformulated Gasoline,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),44.12,g CO2e/MJ,2022,US,0.82
+Reformulated Gasoline,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),71.89,g CO2e/MJ,2022,US,0.76
+Reformulated Gasoline,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),54.43,g CO2e/MJ,2022,US,0.75
+Reformulated Gasoline,Well-to-Wheel,Flexible Fuel Vehicle (FFV),82.19,g CO2e/MJ,2022,US,0.74
+Low-Sulfur Diesel,Well-to-Pump,Not Applicable,19.31,g CO2e/MJ,2022,US,0.75
+Low-Sulfur Diesel,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),69.51,g CO2e/MJ,2022,US,0.89
+Low-Sulfur Diesel,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),88.82,g CO2e/MJ,2022,US,0.89
+Low-Sulfur Diesel,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),52.86,g CO2e/MJ,2022,US,0.85
+Low-Sulfur Diesel,Well-to-Wheel,Hybrid Electric Vehicle (HEV),72.17,g CO2e/MJ,2022,US,0.87
+Low-Sulfur Diesel,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),51.32,g CO2e/MJ,2022,US,0.84
+Low-Sulfur Diesel,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),70.63,g CO2e/MJ,2022,US,0.89
+Low-Sulfur Diesel,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),71.72,g CO2e/MJ,2022,US,0.81
+Low-Sulfur Diesel,Well-to-Wheel,Flexible Fuel Vehicle (FFV),91.03,g CO2e/MJ,2022,US,0.89
+Liquefied Petroleum Gas (LPG),Well-to-Pump,Not Applicable,24.27,g CO2e/MJ,2022,US,0.82
+Liquefied Petroleum Gas (LPG),Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),46.01,g CO2e/MJ,2022,US,0.73
+Liquefied Petroleum Gas (LPG),Well-to-Wheel,Conventional Internal Combustion Engine (ICE),70.28,g CO2e/MJ,2022,US,0.75
+Liquefied Petroleum Gas (LPG),Pump-to-Wheel,Hybrid Electric Vehicle (HEV),30.55,g CO2e/MJ,2022,US,0.79
+Liquefied Petroleum Gas (LPG),Well-to-Wheel,Hybrid Electric Vehicle (HEV),54.82,g CO2e/MJ,2022,US,0.83
+Liquefied Petroleum Gas (LPG),Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),34.54,g CO2e/MJ,2022,US,0.78
+Liquefied Petroleum Gas (LPG),Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),58.81,g CO2e/MJ,2022,US,0.85
+Liquefied Petroleum Gas (LPG),Pump-to-Wheel,Liquefied Petroleum Gas Vehicle (LPGV),45.41,g CO2e/MJ,2022,US,0.74
+Liquefied Petroleum Gas (LPG),Well-to-Wheel,Liquefied Petroleum Gas Vehicle (LPGV),69.68,g CO2e/MJ,2022,US,0.81
+Liquefied Petroleum Gas (LPG),Pump-to-Wheel,Flexible Fuel Vehicle (FFV),45.84,g CO2e/MJ,2022,US,0.73
+Liquefied Petroleum Gas (LPG),Well-to-Wheel,Flexible Fuel Vehicle (FFV),70.11,g CO2e/MJ,2022,US,0.82
+Compressed Natural Gas (CNG),Well-to-Pump,Not Applicable,16.24,g CO2e/MJ,2022,US,0.76
+Compressed Natural Gas (CNG),Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),44.82,g CO2e/MJ,2022,US,0.84
+Compressed Natural Gas (CNG),Well-to-Wheel,Conventional Internal Combustion Engine (ICE),61.06,g CO2e/MJ,2022,US,0.84
+Compressed Natural Gas (CNG),Pump-to-Wheel,Hybrid Electric Vehicle (HEV),34.67,g CO2e/MJ,2022,US,0.74
+Compressed Natural Gas (CNG),Well-to-Wheel,Hybrid Electric Vehicle (HEV),50.91,g CO2e/MJ,2022,US,0.71
+Compressed Natural Gas (CNG),Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),32.38,g CO2e/MJ,2022,US,0.78
+Compressed Natural Gas (CNG),Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),48.62,g CO2e/MJ,2022,US,0.87
+Compressed Natural Gas (CNG),Pump-to-Wheel,Compressed Natural Gas Vehicle (CNGV),43.15,g CO2e/MJ,2022,US,0.73
+Compressed Natural Gas (CNG),Well-to-Wheel,Compressed Natural Gas Vehicle (CNGV),59.39,g CO2e/MJ,2022,US,0.89
+Compressed Natural Gas (CNG),Pump-to-Wheel,Flexible Fuel Vehicle (FFV),42.73,g CO2e/MJ,2022,US,0.82
+Compressed Natural Gas (CNG),Well-to-Wheel,Flexible Fuel Vehicle (FFV),58.97,g CO2e/MJ,2022,US,0.85
+Liquefied Natural Gas (LNG),Well-to-Pump,Not Applicable,24.56,g CO2e/MJ,2022,US,0.72
+Liquefied Natural Gas (LNG),Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),39.04,g CO2e/MJ,2022,US,0.82
+Liquefied Natural Gas (LNG),Well-to-Wheel,Conventional Internal Combustion Engine (ICE),63.6,g CO2e/MJ,2022,US,0.88
+Liquefied Natural Gas (LNG),Pump-to-Wheel,Hybrid Electric Vehicle (HEV),27.97,g CO2e/MJ,2022,US,0.85
+Liquefied Natural Gas (LNG),Well-to-Wheel,Hybrid Electric Vehicle (HEV),52.53,g CO2e/MJ,2022,US,0.87
+Liquefied Natural Gas (LNG),Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),25.49,g CO2e/MJ,2022,US,0.76
+Liquefied Natural Gas (LNG),Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),50.04,g CO2e/MJ,2022,US,0.78
+Liquefied Natural Gas (LNG),Pump-to-Wheel,Compressed Natural Gas Vehicle (CNGV),39.15,g CO2e/MJ,2022,US,0.8
+Liquefied Natural Gas (LNG),Well-to-Wheel,Compressed Natural Gas Vehicle (CNGV),63.71,g CO2e/MJ,2022,US,0.7
+Liquefied Natural Gas (LNG),Pump-to-Wheel,Flexible Fuel Vehicle (FFV),37.17,g CO2e/MJ,2022,US,0.79
+Liquefied Natural Gas (LNG),Well-to-Wheel,Flexible Fuel Vehicle (FFV),61.73,g CO2e/MJ,2022,US,0.89
+Ethanol from Corn,Well-to-Pump,Not Applicable,16.2,g CO2e/MJ,2022,US,0.8
+Ethanol from Corn,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),50.19,g CO2e/MJ,2022,US,0.87
+Ethanol from Corn,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),66.39,g CO2e/MJ,2022,US,0.71
+Ethanol from Corn,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),34.74,g CO2e/MJ,2022,US,0.9
+Ethanol from Corn,Well-to-Wheel,Hybrid Electric Vehicle (HEV),50.94,g CO2e/MJ,2022,US,0.86
+Ethanol from Corn,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),41.72,g CO2e/MJ,2022,US,0.78
+Ethanol from Corn,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),57.91,g CO2e/MJ,2022,US,0.72
+Ethanol from Corn,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),49.73,g CO2e/MJ,2022,US,0.78
+Ethanol from Corn,Well-to-Wheel,Flexible Fuel Vehicle (FFV),65.93,g CO2e/MJ,2022,US,0.87
+Ethanol from Sugarcane,Well-to-Pump,Not Applicable,13.87,g CO2e/MJ,2022,US,0.79
+Ethanol from Sugarcane,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),35.89,g CO2e/MJ,2022,US,0.8
+Ethanol from Sugarcane,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),49.76,g CO2e/MJ,2022,US,0.82
+Ethanol from Sugarcane,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),23.05,g CO2e/MJ,2022,US,0.88
+Ethanol from Sugarcane,Well-to-Wheel,Hybrid Electric Vehicle (HEV),36.92,g CO2e/MJ,2022,US,0.88
+Ethanol from Sugarcane,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),25.81,g CO2e/MJ,2022,US,0.73
+Ethanol from Sugarcane,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),39.68,g CO2e/MJ,2022,US,0.72
+Ethanol from Sugarcane,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),38.7,g CO2e/MJ,2022,US,0.86
+Ethanol from Sugarcane,Well-to-Wheel,Flexible Fuel Vehicle (FFV),52.57,g CO2e/MJ,2022,US,0.81
+Ethanol from Cellulosic Biomass,Well-to-Pump,Not Applicable,10.91,g CO2e/MJ,2022,US,0.82
+Ethanol from Cellulosic Biomass,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),35.67,g CO2e/MJ,2022,US,0.81
+Ethanol from Cellulosic Biomass,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),46.57,g CO2e/MJ,2022,US,0.82
+Ethanol from Cellulosic Biomass,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),21.72,g CO2e/MJ,2022,US,0.82
+Ethanol from Cellulosic Biomass,Well-to-Wheel,Hybrid Electric Vehicle (HEV),32.63,g CO2e/MJ,2022,US,0.88
+Ethanol from Cellulosic Biomass,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),27.38,g CO2e/MJ,2022,US,0.84
+Ethanol from Cellulosic Biomass,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),38.29,g CO2e/MJ,2022,US,0.89
+Ethanol from Cellulosic Biomass,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),33.63,g CO2e/MJ,2022,US,0.73
+Ethanol from Cellulosic Biomass,Well-to-Wheel,Flexible Fuel Vehicle (FFV),44.54,g CO2e/MJ,2022,US,0.76
+Biodiesel from Soybean,Well-to-Pump,Not Applicable,10.55,g CO2e/MJ,2022,US,0.83
+Biodiesel from Soybean,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),28.99,g CO2e/MJ,2022,US,0.82
+Biodiesel from Soybean,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),39.54,g CO2e/MJ,2022,US,0.78
+Biodiesel from Soybean,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),18.49,g CO2e/MJ,2022,US,0.72
+Biodiesel from Soybean,Well-to-Wheel,Hybrid Electric Vehicle (HEV),29.04,g CO2e/MJ,2022,US,0.77
+Biodiesel from Soybean,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),21.26,g CO2e/MJ,2022,US,0.77
+Biodiesel from Soybean,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),31.82,g CO2e/MJ,2022,US,0.8
+Biodiesel from Soybean,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),29.35,g CO2e/MJ,2022,US,0.7
+Biodiesel from Soybean,Well-to-Wheel,Flexible Fuel Vehicle (FFV),39.9,g CO2e/MJ,2022,US,0.84
+Biodiesel from Algae,Well-to-Pump,Not Applicable,18.63,g CO2e/MJ,2022,US,0.73
+Biodiesel from Algae,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),33.16,g CO2e/MJ,2022,US,0.74
+Biodiesel from Algae,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),51.78,g CO2e/MJ,2022,US,0.87
+Biodiesel from Algae,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),20.9,g CO2e/MJ,2022,US,0.82
+Biodiesel from Algae,Well-to-Wheel,Hybrid Electric Vehicle (HEV),39.53,g CO2e/MJ,2022,US,0.74
+Biodiesel from Algae,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),23.75,g CO2e/MJ,2022,US,0.72
+Biodiesel from Algae,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),42.38,g CO2e/MJ,2022,US,0.83
+Biodiesel from Algae,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),34.01,g CO2e/MJ,2022,US,0.75
+Biodiesel from Algae,Well-to-Wheel,Flexible Fuel Vehicle (FFV),52.64,g CO2e/MJ,2022,US,0.74
+Renewable Diesel,Well-to-Pump,Not Applicable,25.97,g CO2e/MJ,2022,US,0.71
+Renewable Diesel,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),69.73,g CO2e/MJ,2022,US,0.77
+Renewable Diesel,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),95.7,g CO2e/MJ,2022,US,0.85
+Renewable Diesel,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),55.17,g CO2e/MJ,2022,US,0.88
+Renewable Diesel,Well-to-Wheel,Hybrid Electric Vehicle (HEV),81.14,g CO2e/MJ,2022,US,0.85
+Renewable Diesel,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),47.58,g CO2e/MJ,2022,US,0.77
+Renewable Diesel,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),73.56,g CO2e/MJ,2022,US,0.75
+Renewable Diesel,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),73.94,g CO2e/MJ,2022,US,0.72
+Renewable Diesel,Well-to-Wheel,Flexible Fuel Vehicle (FFV),99.91,g CO2e/MJ,2022,US,0.9
+Hydrogen from Natural Gas,Well-to-Pump,Not Applicable,16.4,g CO2e/MJ,2022,US,0.7
+Hydrogen from Natural Gas,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),52.0,g CO2e/MJ,2022,US,0.78
+Hydrogen from Natural Gas,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),68.4,g CO2e/MJ,2022,US,0.9
+Hydrogen from Natural Gas,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),32.44,g CO2e/MJ,2022,US,0.73
+Hydrogen from Natural Gas,Well-to-Wheel,Hybrid Electric Vehicle (HEV),48.85,g CO2e/MJ,2022,US,0.71
+Hydrogen from Natural Gas,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),34.95,g CO2e/MJ,2022,US,0.7
+Hydrogen from Natural Gas,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),51.35,g CO2e/MJ,2022,US,0.81
+Hydrogen from Natural Gas,Pump-to-Wheel,Compressed Natural Gas Vehicle (CNGV),54.46,g CO2e/MJ,2022,US,0.8
+Hydrogen from Natural Gas,Well-to-Wheel,Compressed Natural Gas Vehicle (CNGV),70.87,g CO2e/MJ,2022,US,0.73
+Hydrogen from Natural Gas,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),54.71,g CO2e/MJ,2022,US,0.84
+Hydrogen from Natural Gas,Well-to-Wheel,Flexible Fuel Vehicle (FFV),71.11,g CO2e/MJ,2022,US,0.73
+Hydrogen from Biomass,Well-to-Pump,Not Applicable,42.84,g CO2e/MJ,2022,US,0.89
+Hydrogen from Biomass,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),83.74,g CO2e/MJ,2022,US,0.82
+Hydrogen from Biomass,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),126.58,g CO2e/MJ,2022,US,0.76
+Hydrogen from Biomass,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),59.71,g CO2e/MJ,2022,US,0.77
+Hydrogen from Biomass,Well-to-Wheel,Hybrid Electric Vehicle (HEV),102.55,g CO2e/MJ,2022,US,0.86
+Hydrogen from Biomass,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),63.09,g CO2e/MJ,2022,US,0.78
+Hydrogen from Biomass,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),105.93,g CO2e/MJ,2022,US,0.87
+Hydrogen from Biomass,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),80.2,g CO2e/MJ,2022,US,0.9
+Hydrogen from Biomass,Well-to-Wheel,Flexible Fuel Vehicle (FFV),123.05,g CO2e/MJ,2022,US,0.7
+Hydrogen from Electrolysis,Well-to-Pump,Not Applicable,22.25,g CO2e/MJ,2022,US,0.71
+Hydrogen from Electrolysis,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),42.59,g CO2e/MJ,2022,US,0.83
+Hydrogen from Electrolysis,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),64.85,g CO2e/MJ,2022,US,0.71
+Hydrogen from Electrolysis,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),25.79,g CO2e/MJ,2022,US,0.81
+Hydrogen from Electrolysis,Well-to-Wheel,Hybrid Electric Vehicle (HEV),48.04,g CO2e/MJ,2022,US,0.85
+Hydrogen from Electrolysis,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),25.49,g CO2e/MJ,2022,US,0.75
+Hydrogen from Electrolysis,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),47.74,g CO2e/MJ,2022,US,0.79
+Hydrogen from Electrolysis,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),41.89,g CO2e/MJ,2022,US,0.71
+Hydrogen from Electrolysis,Well-to-Wheel,Flexible Fuel Vehicle (FFV),64.14,g CO2e/MJ,2022,US,0.77
+Electricity from Coal,Well-to-Pump,Not Applicable,39.3,g CO2e/MJ,2022,US,0.75
+Electricity from Coal,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),156.81,g CO2e/MJ,2022,US,0.84
+Electricity from Coal,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),196.1,g CO2e/MJ,2022,US,0.79
+Electricity from Coal,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),121.67,g CO2e/MJ,2022,US,0.89
+Electricity from Coal,Well-to-Wheel,Hybrid Electric Vehicle (HEV),160.97,g CO2e/MJ,2022,US,0.75
+Electricity from Coal,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),102.11,g CO2e/MJ,2022,US,0.72
+Electricity from Coal,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),141.4,g CO2e/MJ,2022,US,0.87
+Electricity from Coal,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.72
+Electricity from Coal,Well-to-Wheel,Battery Electric Vehicle (BEV),39.3,g CO2e/MJ,2022,US,0.9
+Electricity from Coal,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),149.29,g CO2e/MJ,2022,US,0.82
+Electricity from Coal,Well-to-Wheel,Flexible Fuel Vehicle (FFV),188.59,g CO2e/MJ,2022,US,0.8
+Electricity from Natural Gas,Well-to-Pump,Not Applicable,17.35,g CO2e/MJ,2022,US,0.88
+Electricity from Natural Gas,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),56.91,g CO2e/MJ,2022,US,0.73
+Electricity from Natural Gas,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),74.26,g CO2e/MJ,2022,US,0.77
+Electricity from Natural Gas,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),44.02,g CO2e/MJ,2022,US,0.82
+Electricity from Natural Gas,Well-to-Wheel,Hybrid Electric Vehicle (HEV),61.37,g CO2e/MJ,2022,US,0.75
+Electricity from Natural Gas,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),43.28,g CO2e/MJ,2022,US,0.75
+Electricity from Natural Gas,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),60.63,g CO2e/MJ,2022,US,0.79
+Electricity from Natural Gas,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.87
+Electricity from Natural Gas,Well-to-Wheel,Battery Electric Vehicle (BEV),17.35,g CO2e/MJ,2022,US,0.82
+Electricity from Natural Gas,Pump-to-Wheel,Compressed Natural Gas Vehicle (CNGV),57.51,g CO2e/MJ,2022,US,0.89
+Electricity from Natural Gas,Well-to-Wheel,Compressed Natural Gas Vehicle (CNGV),74.87,g CO2e/MJ,2022,US,0.81
+Electricity from Natural Gas,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),56.15,g CO2e/MJ,2022,US,0.86
+Electricity from Natural Gas,Well-to-Wheel,Flexible Fuel Vehicle (FFV),73.5,g CO2e/MJ,2022,US,0.73
+Electricity from Nuclear,Well-to-Pump,Not Applicable,10.41,g CO2e/MJ,2022,US,0.75
+Electricity from Nuclear,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),17.86,g CO2e/MJ,2022,US,0.84
+Electricity from Nuclear,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),28.27,g CO2e/MJ,2022,US,0.81
+Electricity from Nuclear,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),14.64,g CO2e/MJ,2022,US,0.86
+Electricity from Nuclear,Well-to-Wheel,Hybrid Electric Vehicle (HEV),25.06,g CO2e/MJ,2022,US,0.75
+Electricity from Nuclear,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),14.32,g CO2e/MJ,2022,US,0.88
+Electricity from Nuclear,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),24.74,g CO2e/MJ,2022,US,0.76
+Electricity from Nuclear,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.81
+Electricity from Nuclear,Well-to-Wheel,Battery Electric Vehicle (BEV),10.41,g CO2e/MJ,2022,US,0.84
+Electricity from Nuclear,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),19.53,g CO2e/MJ,2022,US,0.85
+Electricity from Nuclear,Well-to-Wheel,Flexible Fuel Vehicle (FFV),29.95,g CO2e/MJ,2022,US,0.89
+Electricity from Biomass,Well-to-Pump,Not Applicable,17.17,g CO2e/MJ,2022,US,0.84
+Electricity from Biomass,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),52.68,g CO2e/MJ,2022,US,0.84
+Electricity from Biomass,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),69.85,g CO2e/MJ,2022,US,0.86
+Electricity from Biomass,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),38.03,g CO2e/MJ,2022,US,0.75
+Electricity from Biomass,Well-to-Wheel,Hybrid Electric Vehicle (HEV),55.2,g CO2e/MJ,2022,US,0.87
+Electricity from Biomass,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),38.39,g CO2e/MJ,2022,US,0.9
+Electricity from Biomass,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),55.56,g CO2e/MJ,2022,US,0.84
+Electricity from Biomass,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.82
+Electricity from Biomass,Well-to-Wheel,Battery Electric Vehicle (BEV),17.17,g CO2e/MJ,2022,US,0.85
+Electricity from Biomass,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),53.05,g CO2e/MJ,2022,US,0.79
+Electricity from Biomass,Well-to-Wheel,Flexible Fuel Vehicle (FFV),70.22,g CO2e/MJ,2022,US,0.8
+Electricity from Wind,Well-to-Pump,Not Applicable,8.82,g CO2e/MJ,2022,US,0.87
+Electricity from Wind,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),16.53,g CO2e/MJ,2022,US,0.81
+Electricity from Wind,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),25.35,g CO2e/MJ,2022,US,0.75
+Electricity from Wind,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),12.01,g CO2e/MJ,2022,US,0.8
+Electricity from Wind,Well-to-Wheel,Hybrid Electric Vehicle (HEV),20.83,g CO2e/MJ,2022,US,0.89
+Electricity from Wind,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),10.32,g CO2e/MJ,2022,US,0.79
+Electricity from Wind,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),19.14,g CO2e/MJ,2022,US,0.77
+Electricity from Wind,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.84
+Electricity from Wind,Well-to-Wheel,Battery Electric Vehicle (BEV),8.82,g CO2e/MJ,2022,US,0.82
+Electricity from Wind,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),16.52,g CO2e/MJ,2022,US,0.71
+Electricity from Wind,Well-to-Wheel,Flexible Fuel Vehicle (FFV),25.34,g CO2e/MJ,2022,US,0.73
+Electricity from Solar,Well-to-Pump,Not Applicable,8.85,g CO2e/MJ,2022,US,0.77
+Electricity from Solar,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),18.52,g CO2e/MJ,2022,US,0.76
+Electricity from Solar,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),27.37,g CO2e/MJ,2022,US,0.89
+Electricity from Solar,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),12.25,g CO2e/MJ,2022,US,0.74
+Electricity from Solar,Well-to-Wheel,Hybrid Electric Vehicle (HEV),21.1,g CO2e/MJ,2022,US,0.75
+Electricity from Solar,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),14.76,g CO2e/MJ,2022,US,0.89
+Electricity from Solar,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),23.61,g CO2e/MJ,2022,US,0.83
+Electricity from Solar,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.78
+Electricity from Solar,Well-to-Wheel,Battery Electric Vehicle (BEV),8.85,g CO2e/MJ,2022,US,0.89
+Electricity from Solar,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),19.09,g CO2e/MJ,2022,US,0.78
+Electricity from Solar,Well-to-Wheel,Flexible Fuel Vehicle (FFV),27.94,g CO2e/MJ,2022,US,0.73
+Electricity from Hydroelectric,Well-to-Pump,Not Applicable,2.89,g CO2e/MJ,2022,US,0.89
+Electricity from Hydroelectric,Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),10.6,g CO2e/MJ,2022,US,0.88
+Electricity from Hydroelectric,Well-to-Wheel,Conventional Internal Combustion Engine (ICE),13.49,g CO2e/MJ,2022,US,0.74
+Electricity from Hydroelectric,Pump-to-Wheel,Hybrid Electric Vehicle (HEV),7.29,g CO2e/MJ,2022,US,0.78
+Electricity from Hydroelectric,Well-to-Wheel,Hybrid Electric Vehicle (HEV),10.18,g CO2e/MJ,2022,US,0.74
+Electricity from Hydroelectric,Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),7.93,g CO2e/MJ,2022,US,0.89
+Electricity from Hydroelectric,Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),10.82,g CO2e/MJ,2022,US,0.76
+Electricity from Hydroelectric,Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.87
+Electricity from Hydroelectric,Well-to-Wheel,Battery Electric Vehicle (BEV),2.89,g CO2e/MJ,2022,US,0.83
+Electricity from Hydroelectric,Pump-to-Wheel,Flexible Fuel Vehicle (FFV),10.43,g CO2e/MJ,2022,US,0.79
+Electricity from Hydroelectric,Well-to-Wheel,Flexible Fuel Vehicle (FFV),13.32,g CO2e/MJ,2022,US,0.74
+Electricity Grid Mix (US Average),Well-to-Pump,Not Applicable,22.85,g CO2e/MJ,2022,US,0.82
+Electricity Grid Mix (US Average),Pump-to-Wheel,Conventional Internal Combustion Engine (ICE),42.31,g CO2e/MJ,2022,US,0.79
+Electricity Grid Mix (US Average),Well-to-Wheel,Conventional Internal Combustion Engine (ICE),65.16,g CO2e/MJ,2022,US,0.8
+Electricity Grid Mix (US Average),Pump-to-Wheel,Hybrid Electric Vehicle (HEV),28.21,g CO2e/MJ,2022,US,0.79
+Electricity Grid Mix (US Average),Well-to-Wheel,Hybrid Electric Vehicle (HEV),51.06,g CO2e/MJ,2022,US,0.77
+Electricity Grid Mix (US Average),Pump-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),27.2,g CO2e/MJ,2022,US,0.77
+Electricity Grid Mix (US Average),Well-to-Wheel,Plug-in Hybrid Electric Vehicle (PHEV),50.05,g CO2e/MJ,2022,US,0.71
+Electricity Grid Mix (US Average),Pump-to-Wheel,Battery Electric Vehicle (BEV),0.0,g CO2e/MJ,2022,US,0.79
+Electricity Grid Mix (US Average),Well-to-Wheel,Battery Electric Vehicle (BEV),22.85,g CO2e/MJ,2022,US,0.74
+Electricity Grid Mix (US Average),Pump-to-Wheel,Flexible Fuel Vehicle (FFV),43.42,g CO2e/MJ,2022,US,0.85
+Electricity Grid Mix (US Average),Well-to-Wheel,Flexible Fuel Vehicle (FFV),66.27,g CO2e/MJ,2022,US,0.86

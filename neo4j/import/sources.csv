@@ -1,0 +1,9 @@
+source_id,name,version,url
+source_1,IPCC_EFDB,1.0,https://example.com/datasets/ipcc_efdb
+source_2,IPCC_AR6,1.0,https://example.com/datasets/ipcc_ar6
+source_3,USEEIO_v2.1,1.0,https://example.com/datasets/useeio_v2.1
+source_4,Climate_TRACE,1.0,https://example.com/datasets/climate_trace
+source_5,Agribalyse_3.1,3.1,https://example.com/datasets/agribalyse_3.1
+source_6,GREET_Model,1.0,https://example.com/datasets/greet_model
+source_7,OpenLCA,1.0,https://example.com/datasets/openlca
+source_8,EXIOBASE_3.8,3.8,https://example.com/datasets/exiobase_3.8

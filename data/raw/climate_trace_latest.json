@@ -1,0 +1,688 @@
+{
+  "sectors": [
+    {
+      "id": "agriculture",
+      "name": "Agriculture",
+      "description": "Agricultural emissions"
+    },
+    {
+      "id": "energy",
+      "name": "Energy",
+      "description": "Energy production emissions"
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation",
+      "description": "Transportation emissions"
+    },
+    {
+      "id": "manufacturing",
+      "name": "Manufacturing",
+      "description": "Manufacturing emissions"
+    },
+    {
+      "id": "waste",
+      "name": "Waste",
+      "description": "Waste management emissions"
+    }
+  ],
+  "countries": [
+    {
+      "id": "USA",
+      "name": "United States",
+      "iso": "US"
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "iso": "CN"
+    },
+    {
+      "id": "IND",
+      "name": "India",
+      "iso": "IN"
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "iso": "DE"
+    },
+    {
+      "id": "FRA",
+      "name": "France",
+      "iso": "FR"
+    },
+    {
+      "id": "BRA",
+      "name": "Brazil",
+      "iso": "BR"
+    },
+    {
+      "id": "GBR",
+      "name": "United Kingdom",
+      "iso": "GB"
+    },
+    {
+      "id": "RUS",
+      "name": "Russia",
+      "iso": "RU"
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "iso": "JP"
+    },
+    {
+      "id": "CAN",
+      "name": "Canada",
+      "iso": "CA"
+    }
+  ],
+  "emissions": [
+    {
+      "id": "EM000001",
+      "country_id": "USA",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 110.25946976027492,
+      "unit": "Mt CO2e",
+      "confidence": 0.6323302155460059
+    },
+    {
+      "id": "EM000002",
+      "country_id": "USA",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 597.4307379599617,
+      "unit": "Mt CO2e",
+      "confidence": 0.8072885293808357
+    },
+    {
+      "id": "EM000003",
+      "country_id": "USA",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 132.41400328934398,
+      "unit": "Mt CO2e",
+      "confidence": 0.6294352782580444
+    },
+    {
+      "id": "EM000004",
+      "country_id": "USA",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 492.35134214299126,
+      "unit": "Mt CO2e",
+      "confidence": 0.8237692378048734
+    },
+    {
+      "id": "EM000005",
+      "country_id": "USA",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 126.08378792969846,
+      "unit": "Mt CO2e",
+      "confidence": 0.6002928099027444
+    },
+    {
+      "id": "EM000006",
+      "country_id": "CHN",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 74.19250871233938,
+      "unit": "Mt CO2e",
+      "confidence": 0.8641443011197206
+    },
+    {
+      "id": "EM000007",
+      "country_id": "CHN",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 201.18854494544556,
+      "unit": "Mt CO2e",
+      "confidence": 0.7472389136595426
+    },
+    {
+      "id": "EM000008",
+      "country_id": "CHN",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 376.44794300074494,
+      "unit": "Mt CO2e",
+      "confidence": 0.7941925115942605
+    },
+    {
+      "id": "EM000009",
+      "country_id": "CHN",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 555.5349545982622,
+      "unit": "Mt CO2e",
+      "confidence": 0.9365117644399363
+    },
+    {
+      "id": "EM000010",
+      "country_id": "CHN",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 190.31404738640992,
+      "unit": "Mt CO2e",
+      "confidence": 0.7140940830815411
+    },
+    {
+      "id": "EM000011",
+      "country_id": "IND",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 53.83028205418613,
+      "unit": "Mt CO2e",
+      "confidence": 0.9416156348480574
+    },
+    {
+      "id": "EM000012",
+      "country_id": "IND",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 535.0103719537137,
+      "unit": "Mt CO2e",
+      "confidence": 0.8031969395817944
+    },
+    {
+      "id": "EM000013",
+      "country_id": "IND",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 375.6095410760446,
+      "unit": "Mt CO2e",
+      "confidence": 0.8787272357560408
+    },
+    {
+      "id": "EM000014",
+      "country_id": "IND",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 327.7221321590792,
+      "unit": "Mt CO2e",
+      "confidence": 0.6266603088822227
+    },
+    {
+      "id": "EM000015",
+      "country_id": "IND",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 118.2704770670679,
+      "unit": "Mt CO2e",
+      "confidence": 0.9293080556543518
+    },
+    {
+      "id": "EM000016",
+      "country_id": "DEU",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 53.43142041168126,
+      "unit": "Mt CO2e",
+      "confidence": 0.9452442708398778
+    },
+    {
+      "id": "EM000017",
+      "country_id": "DEU",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 351.7995597185185,
+      "unit": "Mt CO2e",
+      "confidence": 0.8403713522773137
+    },
+    {
+      "id": "EM000018",
+      "country_id": "DEU",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 196.10612187384532,
+      "unit": "Mt CO2e",
+      "confidence": 0.8789833197220824
+    },
+    {
+      "id": "EM000019",
+      "country_id": "DEU",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 374.493123635398,
+      "unit": "Mt CO2e",
+      "confidence": 0.7889414524026847
+    },
+    {
+      "id": "EM000020",
+      "country_id": "DEU",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 55.24991793732713,
+      "unit": "Mt CO2e",
+      "confidence": 0.7454694717865425
+    },
+    {
+      "id": "EM000021",
+      "country_id": "FRA",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 37.57895490476567,
+      "unit": "Mt CO2e",
+      "confidence": 0.8677263828855396
+    },
+    {
+      "id": "EM000022",
+      "country_id": "FRA",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 237.10546267086974,
+      "unit": "Mt CO2e",
+      "confidence": 0.8493152163689838
+    },
+    {
+      "id": "EM000023",
+      "country_id": "FRA",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 247.4592654024046,
+      "unit": "Mt CO2e",
+      "confidence": 0.8392726494232704
+    },
+    {
+      "id": "EM000024",
+      "country_id": "FRA",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 106.59387357339307,
+      "unit": "Mt CO2e",
+      "confidence": 0.7385875322527831
+    },
+    {
+      "id": "EM000025",
+      "country_id": "FRA",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 78.45407912327458,
+      "unit": "Mt CO2e",
+      "confidence": 0.7626220165734731
+    },
+    {
+      "id": "EM000026",
+      "country_id": "BRA",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 136.76144873091022,
+      "unit": "Mt CO2e",
+      "confidence": 0.6344099323844745
+    },
+    {
+      "id": "EM000027",
+      "country_id": "BRA",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 279.1113693195689,
+      "unit": "Mt CO2e",
+      "confidence": 0.9480197629953533
+    },
+    {
+      "id": "EM000028",
+      "country_id": "BRA",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 271.1023207641841,
+      "unit": "Mt CO2e",
+      "confidence": 0.7154101938696559
+    },
+    {
+      "id": "EM000029",
+      "country_id": "BRA",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 282.70262065631465,
+      "unit": "Mt CO2e",
+      "confidence": 0.6533594480247497
+    },
+    {
+      "id": "EM000030",
+      "country_id": "BRA",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 26.140285739567247,
+      "unit": "Mt CO2e",
+      "confidence": 0.6571044941562731
+    },
+    {
+      "id": "EM000031",
+      "country_id": "GBR",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 99.74594412252826,
+      "unit": "Mt CO2e",
+      "confidence": 0.8851437346715948
+    },
+    {
+      "id": "EM000032",
+      "country_id": "GBR",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 445.63028842620326,
+      "unit": "Mt CO2e",
+      "confidence": 0.6393869841356922
+    },
+    {
+      "id": "EM000033",
+      "country_id": "GBR",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 302.35940648330313,
+      "unit": "Mt CO2e",
+      "confidence": 0.7529536859959437
+    },
+    {
+      "id": "EM000034",
+      "country_id": "GBR",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 255.39457146365262,
+      "unit": "Mt CO2e",
+      "confidence": 0.8414255647809774
+    },
+    {
+      "id": "EM000035",
+      "country_id": "GBR",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 19.96715593821953,
+      "unit": "Mt CO2e",
+      "confidence": 0.6805523392210509
+    },
+    {
+      "id": "EM000036",
+      "country_id": "RUS",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 81.92279956601797,
+      "unit": "Mt CO2e",
+      "confidence": 0.8691733355037619
+    },
+    {
+      "id": "EM000037",
+      "country_id": "RUS",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 185.86666667551003,
+      "unit": "Mt CO2e",
+      "confidence": 0.8577811355140433
+    },
+    {
+      "id": "EM000038",
+      "country_id": "RUS",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 115.63844598050132,
+      "unit": "Mt CO2e",
+      "confidence": 0.6727395890714442
+    },
+    {
+      "id": "EM000039",
+      "country_id": "RUS",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 508.1041928050964,
+      "unit": "Mt CO2e",
+      "confidence": 0.8344555530478781
+    },
+    {
+      "id": "EM000040",
+      "country_id": "RUS",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 87.27149329840374,
+      "unit": "Mt CO2e",
+      "confidence": 0.7953067535709797
+    },
+    {
+      "id": "EM000041",
+      "country_id": "JPN",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 152.7676570177,
+      "unit": "Mt CO2e",
+      "confidence": 0.6600338510349819
+    },
+    {
+      "id": "EM000042",
+      "country_id": "JPN",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 203.10001433323455,
+      "unit": "Mt CO2e",
+      "confidence": 0.8144557744321602
+    },
+    {
+      "id": "EM000043",
+      "country_id": "JPN",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 211.51543064893633,
+      "unit": "Mt CO2e",
+      "confidence": 0.6231647855730811
+    },
+    {
+      "id": "EM000044",
+      "country_id": "JPN",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 216.4474604719706,
+      "unit": "Mt CO2e",
+      "confidence": 0.6790292805153924
+    },
+    {
+      "id": "EM000045",
+      "country_id": "JPN",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 46.7919566430992,
+      "unit": "Mt CO2e",
+      "confidence": 0.8170303671343603
+    },
+    {
+      "id": "EM000046",
+      "country_id": "CAN",
+      "sector_id": "agriculture",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 65.73496175889905,
+      "unit": "Mt CO2e",
+      "confidence": 0.8201060500619695
+    },
+    {
+      "id": "EM000047",
+      "country_id": "CAN",
+      "sector_id": "energy",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 124.95982583780723,
+      "unit": "Mt CO2e",
+      "confidence": 0.8984743322621104
+    },
+    {
+      "id": "EM000048",
+      "country_id": "CAN",
+      "sector_id": "transportation",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 60.12135393996193,
+      "unit": "Mt CO2e",
+      "confidence": 0.6257919831414254
+    },
+    {
+      "id": "EM000049",
+      "country_id": "CAN",
+      "sector_id": "manufacturing",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 291.15230694528043,
+      "unit": "Mt CO2e",
+      "confidence": 0.774927789397912
+    },
+    {
+      "id": "EM000050",
+      "country_id": "CAN",
+      "sector_id": "waste",
+      "subsector_id": null,
+      "year": 2024,
+      "gas_id": "CO2e",
+      "gas_name": "Carbon Dioxide Equivalent",
+      "value": 109.03092641242955,
+      "unit": "Mt CO2e",
+      "confidence": 0.6478359783983395
+    }
+  ],
+  "metadata": {
+    "timestamp": "2025-03-11 22:59:15",
+    "source": "Climate_TRACE",
+    "note": "Simulated data for demonstration purposes"
+  }
+}

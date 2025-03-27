@@ -1,0 +1,8 @@
+2025-03-14 11:30:30,535 - __main__ - INFO - Loading full instruction dataset from training/data/instructions.json
+2025-03-14 11:30:30,543 - __main__ - INFO - Total examples in dataset: 4856
+2025-03-14 11:30:30,543 - __main__ - INFO - Creating test set with 485 examples (10.0%)
+2025-03-14 11:30:30,547 - __main__ - INFO - Saved 485 test instructions to training/data/instructions_test.json
+2025-03-14 11:30:30,547 - __main__ - INFO - Test set category distribution:
+2025-03-14 11:30:30,547 - __main__ - INFO -   moderate: 148 (30.5%)
+2025-03-14 11:30:30,547 - __main__ - INFO -   basic: 295 (60.8%)
+2025-03-14 11:30:30,547 - __main__ - INFO -   complex: 42 (8.7%)

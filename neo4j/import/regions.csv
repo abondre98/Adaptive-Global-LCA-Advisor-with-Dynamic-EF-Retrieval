@@ -1,0 +1,86 @@
+region_code,name,continent,is_global
+SAM,SAM,Unknown,False
+EUR,EUR,Unknown,False
+ASI,ASI,Unknown,False
+NAM,NAM,Unknown,False
+OCE,OCE,Unknown,False
+AFR,AFR,Unknown,False
+GLB,Global,Global,True
+IN,IN,Unknown,False
+CN,CN,Unknown,False
+USA,United States,North America,False
+BR,BR,Unknown,False
+AU,AU,Unknown,False
+ZA,ZA,Unknown,False
+RU,RU,Unknown,False
+ID,ID,Unknown,False
+CA,CA,Unknown,False
+Global,Global,Unknown,False
+North America,North America,Unknown,False
+Europe,Europe,Unknown,False
+East Asia,East Asia,Unknown,False
+South Asia,South Asia,Unknown,False
+Latin America,Latin America,Unknown,False
+Africa,Africa,Unknown,False
+Middle East,Middle East,Unknown,False
+Oceania,Oceania,Unknown,False
+Southeast Asia,Southeast Asia,Unknown,False
+AUS,AUS,Unknown,False
+BRA,BRA,Unknown,False
+CAN,CAN,Unknown,False
+CHN,CHN,Unknown,False
+DEU,DEU,Unknown,False
+ESP,ESP,Unknown,False
+FRA,FRA,Unknown,False
+GBR,GBR,Unknown,False
+IDN,IDN,Unknown,False
+IND,IND,Unknown,False
+ITA,ITA,Unknown,False
+JPN,JPN,Unknown,False
+KOR,KOR,Unknown,False
+MEX,MEX,Unknown,False
+NLD,NLD,Unknown,False
+RUS,RUS,Unknown,False
+SAU,SAU,Unknown,False
+TUR,TUR,Unknown,False
+ZAF,ZAF,Unknown,False
+FR,France,Europe,False
+AT,AT,Unknown,False
+BE,BE,Unknown,False
+BG,BG,Unknown,False
+CY,CY,Unknown,False
+CZ,CZ,Unknown,False
+DE,DE,Unknown,False
+DK,DK,Unknown,False
+EE,EE,Unknown,False
+ES,ES,Unknown,False
+FI,FI,Unknown,False
+GR,GR,Unknown,False
+HR,HR,Unknown,False
+HU,HU,Unknown,False
+IE,IE,Unknown,False
+IT,IT,Unknown,False
+LT,LT,Unknown,False
+LU,LU,Unknown,False
+LV,LV,Unknown,False
+MT,MT,Unknown,False
+NL,NL,Unknown,False
+PL,PL,Unknown,False
+PT,PT,Unknown,False
+RO,RO,Unknown,False
+SE,SE,Unknown,False
+SI,SI,Unknown,False
+SK,SK,Unknown,False
+GB,GB,Unknown,False
+JP,JP,Unknown,False
+KR,KR,Unknown,False
+MX,MX,Unknown,False
+CH,CH,Unknown,False
+TR,TR,Unknown,False
+TW,TW,Unknown,False
+NO,NO,Unknown,False
+WA,WA,Unknown,False
+WF,WF,Unknown,False
+WL,WL,Unknown,False
+WM,WM,Unknown,False
+WE,WE,Unknown,False

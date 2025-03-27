@@ -1,0 +1,139 @@
+2025-03-11 22:59:12,221 - __main__ - INFO - Starting Adaptive Global LCA Advisor data extraction and processing
+2025-03-11 22:59:12,221 - __main__ - INFO - Starting extraction process for all datasets
+2025-03-11 22:59:12,221 - __main__ - INFO - Found 6 extractor modules: ipcc_extractor, useeio_extractor, ipcc_ar6_extractor, climate_trace_extractor, agribalyse_extractor, exiobase_extractor
+2025-03-11 22:59:12,221 - __main__ - INFO - Running extractor: ipcc_extractor
+2025-03-11 22:59:12,251 - utils - INFO - [IPCC] Getting report links
+2025-03-11 22:59:13,573 - extractors.ipcc_extractor - WARNING - No report links found, using predefined multipliers only
+2025-03-11 22:59:13,574 - utils - INFO - [IPCC] Extracting predefined multipliers
+2025-03-11 22:59:13,574 - utils - INFO - [IPCC] Combining multipliers
+2025-03-11 22:59:13,575 - utils - INFO - [IPCC] Cleaning dataset
+2025-03-11 22:59:13,578 - utils - INFO - Saved DataFrame with 10 rows to data/processed/ipcc_ar6_multipliers.csv
+2025-03-11 22:59:13,579 - utils - INFO - Created checksum a5cdc23176c88a29562b0ec248b0e592 for data/processed/ipcc_ar6_multipliers.csv
+2025-03-11 22:59:13,579 - extractors.ipcc_extractor - INFO - Cleaned dataset has 10 rows
+2025-03-11 22:59:13,579 - extractors.ipcc_extractor - INFO - IPCC AR6 extraction and cleaning completed: data/processed/ipcc_ar6_multipliers.csv
+2025-03-11 22:59:13,579 - __main__ - INFO - Completed ipcc_extractor in 1.36 seconds
+2025-03-11 22:59:13,579 - __main__ - INFO - Running extractor: useeio_extractor
+2025-03-11 22:59:13,830 - utils - INFO - [USEEIO] Cloning repository
+2025-03-11 22:59:14,694 - extractors.useeio_extractor - INFO - Cloned USEEIO repository to data/raw/useeio
+2025-03-11 22:59:14,695 - utils - INFO - [USEEIO] Finding relevant files
+2025-03-11 22:59:14,699 - extractors.useeio_extractor - ERROR - Error in USEEIO extraction: No relevant emission factor files found in the repository
+2025-03-11 22:59:14,699 - __main__ - ERROR - Error running extractor useeio_extractor: No relevant emission factor files found in the repository
+Traceback (most recent call last):
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/main.py", line 101, in run_extractors
+    cleaned_file = module.extract_and_clean()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/extractors/useeio_extractor.py", line 452, in extract_and_clean
+    file_paths = find_relevant_files(repo_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/extractors/useeio_extractor.py", line 248, in find_relevant_files
+    raise FileNotFoundError(
+FileNotFoundError: No relevant emission factor files found in the repository
+2025-03-11 22:59:14,700 - __main__ - INFO - Running extractor: ipcc_ar6_extractor
+2025-03-11 22:59:14,702 - utils - INFO - [IPCC_AR6] Downloading data
+2025-03-11 22:59:14,702 - extractors.ipcc_ar6_extractor - INFO - Downloading IPCC AR6 data from https://www.ipcc.ch/report/ar6/wg3/
+2025-03-11 22:59:14,990 - extractors.ipcc_ar6_extractor - WARNING - PDF extraction not implemented, using simulated data
+2025-03-11 22:59:14,990 - utils - INFO - [IPCC_AR6] Creating simulated dataset
+2025-03-11 22:59:14,991 - extractors.ipcc_ar6_extractor - INFO - Created simulated IPCC AR6 data with 78 sector-specific multipliers
+2025-03-11 22:59:14,992 - utils - INFO - [IPCC_AR6] Processing data
+2025-03-11 22:59:14,993 - extractors.ipcc_ar6_extractor - INFO - Processed 78 IPCC AR6 multipliers
+2025-03-11 22:59:14,994 - utils - INFO - [IPCC_AR6] Converting to standard format
+2025-03-11 22:59:14,995 - utils - INFO - [IPCC_AR6] Cleaning dataset
+2025-03-11 22:59:14,997 - extractors.ipcc_ar6_extractor - INFO - Detected 0 outliers in multiplier values
+2025-03-11 22:59:14,999 - utils - INFO - Saved DataFrame with 78 rows to data/processed/ipcc_ar6_clean.csv
+2025-03-11 22:59:15,001 - utils - INFO - Created checksum c36ba1e83263c444595c83f60dadcbf7 for data/processed/ipcc_ar6_clean.csv
+2025-03-11 22:59:15,001 - extractors.ipcc_ar6_extractor - INFO - Cleaned dataset has 78 rows
+2025-03-11 22:59:15,001 - extractors.ipcc_ar6_extractor - INFO - IPCC AR6 extraction and cleaning completed: data/processed/ipcc_ar6_clean.csv
+2025-03-11 22:59:15,001 - __main__ - INFO - Completed ipcc_ar6_extractor in 0.30 seconds
+2025-03-11 22:59:15,001 - __main__ - INFO - Running extractor: climate_trace_extractor
+2025-03-11 22:59:15,005 - utils - INFO - [CLIMATE_TRACE] Fetching all data
+2025-03-11 22:59:15,005 - utils - INFO - [CLIMATE_TRACE] Fetching sectors
+2025-03-11 22:59:15,331 - extractors.climate_trace_extractor - ERROR - Error fetching sectors: 404 Client Error: Not Found for url: https://api.climatetrace.org/v4/sector
+2025-03-11 22:59:15,331 - utils - INFO - [CLIMATE_TRACE] Fetching countries
+2025-03-11 22:59:15,405 - extractors.climate_trace_extractor - ERROR - Error fetching countries: 404 Client Error: Not Found for url: https://api.climatetrace.org/v4/country
+2025-03-11 22:59:15,406 - extractors.climate_trace_extractor - WARNING - Could not fetch basic data from Climate TRACE API, using simulated data
+2025-03-11 22:59:15,406 - utils - INFO - [CLIMATE_TRACE] Creating simulated data
+2025-03-11 22:59:15,407 - extractors.climate_trace_extractor - INFO - Created simulated Climate TRACE data with 50 emission records
+2025-03-11 22:59:15,407 - utils - INFO - [CLIMATE_TRACE] Processing emissions data
+2025-03-11 22:59:15,409 - extractors.climate_trace_extractor - INFO - Processed 50 emission records from Climate TRACE
+2025-03-11 22:59:15,409 - utils - INFO - [CLIMATE_TRACE] Converting to EF format
+2025-03-11 22:59:15,415 - utils - INFO - [CLIMATE_TRACE] Cleaning dataset
+2025-03-11 22:59:15,416 - extractors.climate_trace_extractor - INFO - Detected 0 outliers in emission factor values
+2025-03-11 22:59:15,418 - utils - INFO - Saved DataFrame with 50 rows to data/processed/climate_trace_clean.csv
+2025-03-11 22:59:15,420 - utils - INFO - Created checksum 6eb6ab5d96e6a9ac198a040471344d3c for data/processed/climate_trace_clean.csv
+2025-03-11 22:59:15,420 - extractors.climate_trace_extractor - INFO - Cleaned dataset has 50 rows
+2025-03-11 22:59:15,420 - extractors.climate_trace_extractor - INFO - Climate TRACE extraction and cleaning completed: data/processed/climate_trace_clean.csv
+2025-03-11 22:59:15,420 - __main__ - INFO - Completed climate_trace_extractor in 0.42 seconds
+2025-03-11 22:59:15,420 - __main__ - INFO - Running extractor: agribalyse_extractor
+2025-03-11 22:59:15,424 - utils - INFO - [AGRIBALYSE] Downloading dataset
+2025-03-11 22:59:15,424 - extractors.agribalyse_extractor - INFO - Agribalyse dataset already exists at data/raw/agribalyse_3.1_raw.csv
+2025-03-11 22:59:15,424 - utils - INFO - [AGRIBALYSE] Validating dataset
+2025-03-11 22:59:15,425 - extractors.agribalyse_extractor - INFO - Successfully read file with encoding: utf-8
+2025-03-11 22:59:15,425 - extractors.agribalyse_extractor - INFO - Found columns: LCI_Name, ProductName, PEF_categoria, Climate_change_-_total, Unit, DQR
+2025-03-11 22:59:15,426 - extractors.agribalyse_extractor - INFO - Agribalyse dataset validation successful
+2025-03-11 22:59:15,426 - utils - INFO - [AGRIBALYSE] Cleaning dataset
+2025-03-11 22:59:15,426 - extractors.agribalyse_extractor - INFO - Successfully read file with encoding: utf-8
+2025-03-11 22:59:15,426 - extractors.agribalyse_extractor - INFO - Raw dataset has 20 rows and 6 columns
+2025-03-11 22:59:15,426 - extractors.agribalyse_extractor - INFO - Columns: LCI_Name, ProductName, PEF_categoria, Climate_change_-_total, Unit, DQR
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'LCI_Name' as product name
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'LCI_Name' as product ID
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'PEF_categoria' as product category
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'DQR' as data quality
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'Unit' as unit
+2025-03-11 22:59:15,427 - extractors.agribalyse_extractor - INFO - Using column 'Climate_change_-_total' as emission factor
+2025-03-11 22:59:15,430 - extractors.agribalyse_extractor - INFO - Detected 0 outliers in emission factor values
+2025-03-11 22:59:15,430 - utils - INFO - Saved DataFrame with 20 rows to data/processed/agribalyse_3.1_clean.csv
+2025-03-11 22:59:15,432 - utils - INFO - Created checksum dd96241d9fbf22d0d5dc76303956ea6a for data/processed/agribalyse_3.1_clean.csv
+2025-03-11 22:59:15,432 - extractors.agribalyse_extractor - INFO - Cleaned dataset has 20 rows
+2025-03-11 22:59:15,432 - extractors.agribalyse_extractor - INFO - Agribalyse extraction and cleaning completed: data/processed/agribalyse_3.1_clean.csv
+2025-03-11 22:59:15,432 - __main__ - INFO - Completed agribalyse_extractor in 0.01 seconds
+2025-03-11 22:59:15,432 - __main__ - INFO - Running extractor: exiobase_extractor
+2025-03-11 22:59:15,435 - utils - INFO - [EXIOBASE] Downloading dataset
+2025-03-11 22:59:15,435 - extractors.exiobase_extractor - INFO - Attempting to download from: https://zenodo.org/records/5589597/files/EXIOBASE_3_8_2_2022_env.zip
+2025-03-11 22:59:15,905 - extractors.exiobase_extractor - WARNING - Failed to download EXIOBASE: URL returned HTML or invalid response
+2025-03-11 22:59:15,905 - utils - INFO - [EXIOBASE] Creating simulated dataset
+2025-03-11 22:59:15,909 - extractors.exiobase_extractor - INFO - Created simulated EXIOBASE dataset with 1029 entries
+2025-03-11 22:59:15,910 - utils - INFO - [EXIOBASE] Extracting files
+2025-03-11 22:59:15,910 - extractors.exiobase_extractor - INFO - EXIOBASE files already extracted to data/raw/exiobase_3.8
+2025-03-11 22:59:15,910 - utils - INFO - [EXIOBASE] Finding emission tables
+2025-03-11 22:59:15,910 - extractors.exiobase_extractor - INFO - Found emission table: data/raw/exiobase_3.8/emissions_by_country_product.csv
+2025-03-11 22:59:15,910 - utils - INFO - [EXIOBASE] Parsing emission tables
+2025-03-11 22:59:15,915 - extractors.exiobase_extractor - INFO - Parsed table data/raw/exiobase_3.8/emissions_by_country_product.csv with 1029 rows
+2025-03-11 22:59:15,916 - utils - INFO - [EXIOBASE] Extracting emission factors
+2025-03-11 22:59:15,917 - extractors.exiobase_extractor - INFO - Using column 'CO2_Emissions' for emission factors
+2025-03-11 22:59:15,917 - utils - INFO - [EXIOBASE] Standardizing country codes
+2025-03-11 22:59:15,919 - utils - INFO - [EXIOBASE] Cleaning dataset
+2025-03-11 22:59:15,921 - extractors.exiobase_extractor - INFO - Detected 20 outliers in emission factor values
+2025-03-11 22:59:15,925 - utils - INFO - Saved DataFrame with 1029 rows to data/processed/exiobase_3.8_clean.csv
+2025-03-11 22:59:15,932 - utils - INFO - Created checksum 0d3e470d3217fb7b7bc8a654f3253280 for data/processed/exiobase_3.8_clean.csv
+2025-03-11 22:59:15,932 - extractors.exiobase_extractor - INFO - Cleaned dataset has 1029 rows
+2025-03-11 22:59:15,932 - extractors.exiobase_extractor - INFO - EXIOBASE extraction and cleaning completed: data/processed/exiobase_3.8_clean.csv
+2025-03-11 22:59:15,932 - __main__ - INFO - Completed exiobase_extractor in 0.50 seconds
+2025-03-11 22:59:15,932 - __main__ - INFO - Successfully extracted and cleaned 5 datasets
+2025-03-11 22:59:15,932 - __main__ - INFO - Starting harmonization process
+2025-03-11 22:59:15,933 - __main__ - ERROR - Error in harmonization process: No module named 'harmonization.harmonizer'
+Traceback (most recent call last):
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/main.py", line 130, in run_harmonization
+    harmonization_module = importlib.import_module("harmonization.harmonizer")
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'harmonization.harmonizer'
+2025-03-11 22:59:15,936 - __main__ - ERROR - Error in main process: No module named 'harmonization.harmonizer'
+Traceback (most recent call last):
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/main.py", line 232, in main
+    harmonized_file = run_harmonization(cleaned_datasets)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/surendra/Desktop/Carbon EF/data/scripts/main.py", line 130, in run_harmonization
+    harmonization_module = importlib.import_module("harmonization.harmonizer")
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'harmonization.harmonizer'

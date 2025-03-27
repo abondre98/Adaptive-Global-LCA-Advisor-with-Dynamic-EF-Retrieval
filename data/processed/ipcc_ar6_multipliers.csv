@@ -1,0 +1,11 @@
+entity_id,entity_name,entity_type,ef_value,ef_unit,region,source_dataset,confidence,timestamp,tags,rationale,source_page
+IN_agriculture,IN agriculture,multiplier,1.2,multiplier,IN,IPCC_AR6,0.9,2025-03-13,['sector:agriculture'],Higher methane emissions from rice cultivation,"IPCC AR6 WG III, Chapter 7"
+IN_electricity,IN electricity,multiplier,1.3,multiplier,IN,IPCC_AR6,0.9,2025-03-13,['sector:electricity'],Coal-dominated energy mix,"IPCC AR6 WG III, Chapter 6"
+CN_manufacturing,CN manufacturing,multiplier,1.1,multiplier,CN,IPCC_AR6,0.9,2025-03-13,['sector:manufacturing'],Coal-based industrial processes,"IPCC AR6 WG III, Chapter 11"
+US_transportation,US transportation,multiplier,1.2,multiplier,US,IPCC_AR6,0.9,2025-03-13,['sector:transportation'],Higher vehicle miles traveled,"IPCC AR6 WG III, Chapter 10"
+BR_forestry,BR forestry,multiplier,1.4,multiplier,BR,IPCC_AR6,0.9,2025-03-13,['sector:forestry'],Deforestation impacts,"IPCC AR6 WG III, Chapter 7"
+AU_agriculture,AU agriculture,multiplier,1.15,multiplier,AU,IPCC_AR6,0.9,2025-03-13,['sector:agriculture'],Extensive livestock farming,"IPCC AR6 WG III, Chapter 7"
+ZA_electricity,ZA electricity,multiplier,1.25,multiplier,ZA,IPCC_AR6,0.9,2025-03-13,['sector:electricity'],Coal-dominated energy mix,"IPCC AR6 WG III, Chapter 6"
+RU_oil_and_gas,RU oil and gas,multiplier,1.3,multiplier,RU,IPCC_AR6,0.9,2025-03-13,['sector:oil_and_gas'],Methane leakage from infrastructure,"IPCC AR6 WG III, Chapter 6"
+ID_forestry,ID forestry,multiplier,1.35,multiplier,ID,IPCC_AR6,0.7,2025-03-13,['sector:forestry'],Peatland conversion,"IPCC AR6 WG III, Chapter 7"
+CA_oil_and_gas,CA oil and gas,multiplier,1.2,multiplier,CA,IPCC_AR6,0.7,2025-03-13,['sector:oil_and_gas'],Oil sands extraction,"IPCC AR6 WG III, Chapter 6"

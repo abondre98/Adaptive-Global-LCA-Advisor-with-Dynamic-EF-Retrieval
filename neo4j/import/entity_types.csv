@@ -1,0 +1,14 @@
+type_id,type_name,description
+type_1,energy,Emission factors for energy
+type_2,industrial_process,Emission factors for industrial_process
+type_3,agriculture,Emission factors for agriculture
+type_4,waste,Emission factors for waste
+type_5,other,Emission factors for other
+type_6,multiplier,Emission factors for multiplier
+type_7,sector,Emission factors for sector
+type_8,buildings,Emission factors for buildings
+type_9,manufacturing,Emission factors for manufacturing
+type_10,transportation,Emission factors for transportation
+type_11,product,Emission factors for product
+type_12,fuel_pathway,Emission factors for fuel_pathway
+type_13,process,Emission factors for process

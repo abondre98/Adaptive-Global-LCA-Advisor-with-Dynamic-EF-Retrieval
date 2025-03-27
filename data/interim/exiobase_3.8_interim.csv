@@ -1,0 +1,1030 @@
+Country,CountryName,Product,ProductCode,CO2_Emissions,Unit,Year,source_file
+AT,Austria,Crop cultivation,P000,4.865696287436099,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Animal farming,P001,1.993257175010542,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Forestry,P002,2.0954752706354074,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Fishing,P003,1.0948548894283976,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Coal mining,P004,19.793343015001668,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Oil extraction,P005,6.163850884839976,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Natural gas extraction,P006,16.971319299572084,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Food processing,P007,3.9734568632725944,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Textiles,P008,2.059110103586881,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Wood products,P009,1.5343629357771351,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Paper products,P010,2.178660841042962,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Chemical products,P011,3.38889839582946,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Plastic products,P012,4.751505696632659,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Glass products,P013,0.5769208449137877,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Metal products,P014,2.2900925543195254,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Machinery,P015,1.4974640912779045,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Electronics,P016,1.3377106121093096,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Vehicles,P017,3.43793771548233,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Electricity,P018,7.175543975597532,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Water supply,P019,3.4522439903168367,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AT,Austria,Waste management,P020,0.5036209285794806,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Crop cultivation,P000,3.16382798340322,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Animal farming,P001,2.765224608985162,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Forestry,P002,4.206608594398489,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Fishing,P003,4.380769279823431,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Coal mining,P004,5.277370280459084,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Oil extraction,P005,15.94701207508991,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Natural gas extraction,P006,9.678383119645057,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Food processing,P007,2.3091859046356404,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Textiles,P008,2.2343864518381835,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Wood products,P009,0.6844962549802324,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Paper products,P010,1.2768339414503669,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Chemical products,P011,0.5593311357788284,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Plastic products,P012,1.0889439396232914,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Glass products,P013,0.5312771109788383,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Metal products,P014,2.248963148389565,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Machinery,P015,0.7167548239861241,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Electronics,P016,2.763688759546497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Vehicles,P017,2.712257372196665,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Electricity,P018,12.404317015097504,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Water supply,P019,3.8296665522779496,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BE,Belgium,Waste management,P020,0.7865823610479277,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Crop cultivation,P000,6.773894823547705,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Animal farming,P001,1.2587114908156585,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Forestry,P002,5.722740610325902,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Fishing,P003,1.1944468343831478,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Coal mining,P004,12.319277567377778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Oil extraction,P005,9.227141247730028,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Natural gas extraction,P006,14.558238168447216,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Food processing,P007,3.5879041663396194,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Textiles,P008,1.8863726377109509,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Wood products,P009,4.181661689216766,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Paper products,P010,4.592736999844805,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Chemical products,P011,4.955865049851641,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Plastic products,P012,2.6044643547045054,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Glass products,P013,0.6371751795261763,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Metal products,P014,2.4835539498957173,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Machinery,P015,2.5781291687345163,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Electronics,P016,3.549200538710126,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Vehicles,P017,4.652614835479308,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Electricity,P018,12.828108650539749,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Water supply,P019,4.069997446376263,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BG,Bulgaria,Waste management,P020,0.982075770951307,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Crop cultivation,P000,3.095623465720399,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Animal farming,P001,4.602030067089707,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Forestry,P002,4.272061150625838,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Fishing,P003,4.705355529721686,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Coal mining,P004,18.37382086937412,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Oil extraction,P005,19.780324220398615,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Natural gas extraction,P006,10.2591559989045,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Food processing,P007,1.5923322559504052,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Textiles,P008,2.827393363715471,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Wood products,P009,3.8549837864834577,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Paper products,P010,3.1271911994255865,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Chemical products,P011,4.580666494537471,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Plastic products,P012,2.389995874335365,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Glass products,P013,4.40770997963063,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Metal products,P014,4.34698349102143,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Machinery,P015,3.60916858764077,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Electronics,P016,2.318766879244583,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Vehicles,P017,3.3414403611264216,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Electricity,P018,9.006089034347685,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Water supply,P019,0.6982319978540269,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CY,Cyprus,Waste management,P020,2.0305454816531667,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Crop cultivation,P000,7.013885162324871,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Animal farming,P001,2.9301565316218015,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Forestry,P002,1.4420821115202394,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Fishing,P003,1.3600147670953775,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Coal mining,P004,11.187462669479835,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Oil extraction,P005,8.726206445106113,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Natural gas extraction,P006,7.398274185773849,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Food processing,P007,1.6614092021559357,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Textiles,P008,2.0218569679359204,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Wood products,P009,2.404556272097029,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Paper products,P010,2.273759589103005,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Chemical products,P011,4.342195598559885,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Plastic products,P012,1.9830699590846368,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Glass products,P013,3.8085291498662497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Metal products,P014,4.959169408208501,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Machinery,P015,2.807742683538115,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Electronics,P016,1.667584155506156,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Vehicles,P017,0.9461399773441924,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Electricity,P018,5.508128657650747,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Water supply,P019,0.8780721968013321,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CZ,Czech Republic,Waste management,P020,4.456498828942085,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Crop cultivation,P000,6.945533276412304,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Animal farming,P001,6.98567618088625,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Forestry,P002,4.118948263800853,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Fishing,P003,6.20007131773829,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Coal mining,P004,5.391549281571412,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Oil extraction,P005,16.574967028080643,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Natural gas extraction,P006,16.9859235283636,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Food processing,P007,3.3441378386335097,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Textiles,P008,3.4702040410287345,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Wood products,P009,3.1012200714364964,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Paper products,P010,3.348579176486182,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Chemical products,P011,1.1873227634959265,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Plastic products,P012,4.426588482030248,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Glass products,P013,1.1171031676347782,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Metal products,P014,2.8613276515687143,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Machinery,P015,4.878689856528127,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Electronics,P016,3.314731633276157,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Vehicles,P017,2.971601486912151,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Electricity,P018,10.907385413202189,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Water supply,P019,2.799431525229417,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DE,Germany,Waste management,P020,2.1488977121343145,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Crop cultivation,P000,5.647106893256688,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Animal farming,P001,6.3142217352936925,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Forestry,P002,5.501896126813104,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Fishing,P003,5.583322513388145,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Coal mining,P004,14.354254670761833,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Oil extraction,P005,10.425612659536322,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Natural gas extraction,P006,10.030673105281544,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Food processing,P007,2.5700970023452396,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Textiles,P008,3.801964507169628,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Wood products,P009,2.4624654032701496,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Paper products,P010,1.2455410354812828,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Chemical products,P011,4.3719145090241645,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Plastic products,P012,2.8167982766435644,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Glass products,P013,2.4832026678760952,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Metal products,P014,2.0228038319212804,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Machinery,P015,4.564509577485528,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Electronics,P016,4.075492276261566,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Vehicles,P017,4.223567616082018,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Electricity,P018,5.622171993620694,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Water supply,P019,2.81483960344193,kg CO2e/EUR,2023,emissions_by_country_product.csv
+DK,Denmark,Waste management,P020,4.84976761116288,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Crop cultivation,P000,4.35573016469681,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Animal farming,P001,7.012422812968973,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Forestry,P002,4.48682603057887,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Fishing,P003,2.3784411633842506,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Coal mining,P004,7.31718943802464,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Oil extraction,P005,12.030117858530948,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Natural gas extraction,P006,7.354327788333917,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Food processing,P007,4.077736343194539,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Textiles,P008,2.1069396001760032,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Wood products,P009,2.0781769930319975,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Paper products,P010,1.340720789928861,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Chemical products,P011,0.6654674796633925,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Plastic products,P012,3.941287017299088,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Glass products,P013,1.955599342751177,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Metal products,P014,2.6493749182003667,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Machinery,P015,0.5213350701396695,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Electronics,P016,0.7873840467368998,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Vehicles,P017,4.174067678917314,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Electricity,P018,18.84269508245259,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Water supply,P019,4.926059109903728,kg CO2e/EUR,2023,emissions_by_country_product.csv
+EE,Estonia,Waste management,P020,1.6791381528109643,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Crop cultivation,P000,4.759387739501812,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Animal farming,P001,4.8610273015289,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Forestry,P002,2.6333597318624227,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Fishing,P003,6.021703516440727,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Coal mining,P004,14.679118758602748,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Oil extraction,P005,5.898383959298076,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Natural gas extraction,P006,8.64788904117588,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Food processing,P007,3.781242511897784,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Textiles,P008,1.587860306350639,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Wood products,P009,1.951596654019017,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Paper products,P010,1.9398667976007449,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Chemical products,P011,0.7998261258429736,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Plastic products,P012,2.9709180806626594,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Glass products,P013,1.8856019540543072,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Metal products,P014,1.880179151119151,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Machinery,P015,4.325711974193195,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Electronics,P016,1.8680337865952876,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Vehicles,P017,2.3842567803402828,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Electricity,P018,8.120430843364563,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Water supply,P019,1.578472644335922,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ES,Spain,Waste management,P020,3.0773604620786865,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Crop cultivation,P000,4.019351457141034,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Animal farming,P001,6.031518010832622,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Forestry,P002,3.3941322943388483,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Fishing,P003,3.7689992953150058,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Coal mining,P004,16.546798463918392,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Oil extraction,P005,9.317583012093769,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Natural gas extraction,P006,14.107585911998497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Food processing,P007,1.6977490868196332,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Textiles,P008,4.5571852199739515,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Wood products,P009,2.05477763167722,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Paper products,P010,3.369638007245697,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Chemical products,P011,3.953677326403965,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Plastic products,P012,4.190789031015413,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Glass products,P013,1.915278484072643,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Metal products,P014,4.980326996183127,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Machinery,P015,1.5472121666563248,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Electronics,P016,4.208234137806777,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Vehicles,P017,2.766498846879516,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Electricity,P018,5.384412796999135,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Water supply,P019,0.5872276882953053,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FI,Finland,Waste management,P020,4.8502427295634405,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Crop cultivation,P000,2.992090665260829,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Animal farming,P001,6.249659378578013,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Forestry,P002,3.9128282951437465,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Fishing,P003,2.2010699609515663,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Coal mining,P004,4.99218781149095,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Oil extraction,P005,19.323889982662003,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Natural gas extraction,P006,14.497362797179369,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Food processing,P007,4.946688989386812,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Textiles,P008,4.31309105863817,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Wood products,P009,2.9825602724098945,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Paper products,P010,0.8649367538287493,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Chemical products,P011,3.0669252301933616,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Plastic products,P012,2.1500833221829128,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Glass products,P013,1.48204739178861,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Metal products,P014,0.6965538484877014,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Machinery,P015,2.9050106402329385,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Electronics,P016,1.240492254876103,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Vehicles,P017,2.619116598203178,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Electricity,P018,13.470037935254592,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Water supply,P019,4.687068793092197,kg CO2e/EUR,2023,emissions_by_country_product.csv
+FR,France,Waste management,P020,0.4604045204293093,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Crop cultivation,P000,1.3500348494796903,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Animal farming,P001,3.317704142860298,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Forestry,P002,6.604361341606272,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Fishing,P003,3.0577478803552225,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Coal mining,P004,18.43180881520568,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Oil extraction,P005,16.307879800330266,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Natural gas extraction,P006,6.847607064221297,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Food processing,P007,1.0317181991327853,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Textiles,P008,3.073507077656896,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Wood products,P009,4.492701820637851,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Paper products,P010,1.7552787229883906,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Chemical products,P011,4.716730919500756,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Plastic products,P012,2.11603582930869,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Glass products,P013,4.374946295361314,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Metal products,P014,1.1651757514524284,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Machinery,P015,2.8808424338524623,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Electronics,P016,3.851909956796517,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Vehicles,P017,1.4302180204909278,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Electricity,P018,6.08363814054674,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Water supply,P019,4.752993247920405,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GR,Greece,Waste management,P020,4.084090201681442,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Crop cultivation,P000,7.423467757501241,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Animal farming,P001,4.398481998053863,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Forestry,P002,5.6029606928964375,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Fishing,P003,3.582310705427467,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Coal mining,P004,8.62250282531082,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Oil extraction,P005,11.019365263525968,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Natural gas extraction,P006,9.069021738972138,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Food processing,P007,0.5286489687726488,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Textiles,P008,0.803935658363995,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Wood products,P009,1.0101635706786491,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Paper products,P010,4.389608714750368,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Chemical products,P011,1.0007583124582888,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Plastic products,P012,3.837068622646599,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Glass products,P013,4.071976330570225,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Metal products,P014,1.2502008009965142,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Machinery,P015,1.3862284732702164,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Electronics,P016,2.707273956903129,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Vehicles,P017,4.02831619583582,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Electricity,P018,5.924768759507486,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Water supply,P019,1.30680772321667,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HR,Croatia,Waste management,P020,1.713577047363368,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Crop cultivation,P000,2.2259816991697745,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Animal farming,P001,7.183992625206061,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Forestry,P002,6.5875731587985396,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Fishing,P003,2.0236430163223043,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Coal mining,P004,18.284136276380227,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Oil extraction,P005,11.445694574394672,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Natural gas extraction,P006,6.8258148573081545,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Food processing,P007,4.276846804325038,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Textiles,P008,0.8541359376562805,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Wood products,P009,2.9513823304172155,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Paper products,P010,3.81749045579349,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Chemical products,P011,1.5638576525834356,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Plastic products,P012,2.481610835050361,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Glass products,P013,3.734447685811453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Metal products,P014,4.342263590681147,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Machinery,P015,2.532320857472886,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Electronics,P016,1.7355989714378937,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Vehicles,P017,0.8178669262946529,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Electricity,P018,17.498605058874652,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Water supply,P019,1.1791330001202818,kg CO2e/EUR,2023,emissions_by_country_product.csv
+HU,Hungary,Waste management,P020,2.087365516711418,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Crop cultivation,P000,5.676080277667109,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Animal farming,P001,4.302640106440686,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Forestry,P002,2.588656845043885,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Fishing,P003,2.9344602123381174,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Coal mining,P004,6.383453111888131,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Oil extraction,P005,6.249292230187699,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Natural gas extraction,P006,11.309273238997765,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Food processing,P007,3.4910087440609705,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Textiles,P008,1.7471970454495993,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Wood products,P009,3.3455383537659436,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Paper products,P010,4.50366110411047,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Chemical products,P011,4.644295629437736,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Plastic products,P012,4.841630424661703,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Glass products,P013,3.030787051812568,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Metal products,P014,1.718145799046714,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Machinery,P015,2.960831560951835,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Electronics,P016,3.228241729011453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Vehicles,P017,2.199189612308533,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Electricity,P018,14.8242508147565,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Water supply,P019,4.710461947844434,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IE,Ireland,Waste management,P020,2.9786418381205544,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Crop cultivation,P000,2.810433559369615,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Animal farming,P001,1.5648844785747986,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Forestry,P002,4.432479843031403,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Fishing,P003,4.49119926973125,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Coal mining,P004,12.307204524075717,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Oil extraction,P005,5.335196959665349,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Natural gas extraction,P006,16.921897897521266,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Food processing,P007,4.241774957117027,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Textiles,P008,2.7748670093091317,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Wood products,P009,4.266945883370681,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Paper products,P010,1.563915056730965,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Chemical products,P011,2.0366963745921662,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Plastic products,P012,4.208753943502429,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Glass products,P013,2.8319949444110555,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Metal products,P014,1.2229896683095816,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Machinery,P015,1.517116425252791,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Electronics,P016,1.769606309171774,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Vehicles,P017,3.7164739313114774,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Electricity,P018,13.198542473295568,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Water supply,P019,1.479377181454843,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IT,Italy,Waste management,P020,4.050523140353199,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Crop cultivation,P000,7.556580759976026,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Animal farming,P001,6.9634453187997805,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Forestry,P002,3.467916366500571,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Fishing,P003,3.4936832166118426,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Coal mining,P004,14.334681161999764,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Oil extraction,P005,15.005493260136614,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Natural gas extraction,P006,16.690675139586975,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Food processing,P007,3.426748129664941,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Textiles,P008,1.228812538873975,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Wood products,P009,0.6594854482014136,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Paper products,P010,4.887190018446412,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Chemical products,P011,2.1616970357795404,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Plastic products,P012,1.7307205846425897,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Glass products,P013,1.0049311646778512,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Metal products,P014,4.823993738916591,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Machinery,P015,1.391688827944786,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Electronics,P016,2.5467087380758966,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Vehicles,P017,3.4237475348182933,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Electricity,P018,17.381783637463766,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Water supply,P019,2.2808949199715034,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LT,Lithuania,Waste management,P020,2.910847916597298,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Crop cultivation,P000,2.463807819519535,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Animal farming,P001,6.76740115165144,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Forestry,P002,7.260012660904232,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Fishing,P003,1.4148582614082923,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Coal mining,P004,7.766068346490488,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Oil extraction,P005,6.299697888757761,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Natural gas extraction,P006,8.570961303568378,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Food processing,P007,0.906317829720536,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Textiles,P008,4.349577392179202,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Wood products,P009,0.986967828548037,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Paper products,P010,2.408500349944772,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Chemical products,P011,2.754569225351303,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Plastic products,P012,4.678151691876724,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Glass products,P013,2.233324908126636,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Metal products,P014,4.100891219059166,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Machinery,P015,2.726215119690183,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Electronics,P016,0.6285514565395542,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Vehicles,P017,3.33709548894383,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Electricity,P018,15.070785889308077,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Water supply,P019,0.755427793101948,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LU,Luxembourg,Waste management,P020,0.5289693511442828,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Crop cultivation,P000,1.6513524679529392,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Animal farming,P001,1.108877060491441,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Forestry,P002,7.019637307064752,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Fishing,P003,7.805095606957284,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Coal mining,P004,18.878307617971767,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Oil extraction,P005,18.49000539466827,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Natural gas extraction,P006,12.675853699273718,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Food processing,P007,4.739992836508759,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Textiles,P008,1.7804522151147852,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Wood products,P009,0.7559345059436912,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Paper products,P010,4.109622112904464,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Chemical products,P011,2.3140427751949884,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Plastic products,P012,3.4883735576115815,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Glass products,P013,4.250333650036969,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Metal products,P014,2.442976148625542,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Machinery,P015,2.074856279167179,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Electronics,P016,4.009530773992059,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Vehicles,P017,2.883505543324678,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Electricity,P018,19.3265964229945,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Water supply,P019,2.5353677532897065,kg CO2e/EUR,2023,emissions_by_country_product.csv
+LV,Latvia,Waste management,P020,1.9996596225040395,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Crop cultivation,P000,1.1461809199308797,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Animal farming,P001,7.9416035289843325,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Forestry,P002,2.5150612852634486,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Fishing,P003,3.0648675195665778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Coal mining,P004,6.6205889133893105,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Oil extraction,P005,18.80742071645192,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Natural gas extraction,P006,12.38330886776955,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Food processing,P007,1.813232984787723,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Textiles,P008,3.4835589764128247,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Wood products,P009,1.2692772770020102,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Paper products,P010,2.7985524094952763,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Chemical products,P011,2.3201833364161852,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Plastic products,P012,2.49620440981416,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Glass products,P013,4.132803886391423,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Metal products,P014,2.269436061463154,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Machinery,P015,0.7409424026450186,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Electronics,P016,3.466550326650129,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Vehicles,P017,3.604461402099006,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Electricity,P018,8.609845752778691,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Water supply,P019,0.9219637860545068,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MT,Malta,Waste management,P020,2.365208106741738,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Crop cultivation,P000,2.7682635940154716,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Animal farming,P001,6.951268411465817,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Forestry,P002,5.4665230612307365,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Fishing,P003,7.779709049032419,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Coal mining,P004,11.819008048707325,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Oil extraction,P005,8.337832355195133,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Natural gas extraction,P006,11.072890629077856,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Food processing,P007,3.5922679447762937,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Textiles,P008,4.471079976770007,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Wood products,P009,4.644822772074628,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Paper products,P010,1.1108283938979446,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Chemical products,P011,2.451760283441359,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Plastic products,P012,3.89875658253368,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Glass products,P013,0.6110427234970095,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Metal products,P014,2.344331368720451,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Machinery,P015,2.8515299976106623,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Electronics,P016,3.659341594395561,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Vehicles,P017,2.3537554711617865,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Electricity,P018,15.256730274947284,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Water supply,P019,0.5581583894266396,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NL,Netherlands,Waste management,P020,2.3287133053710596,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Crop cultivation,P000,4.3395059910894975,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Animal farming,P001,4.071483670437025,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Forestry,P002,4.327472776778604,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Fishing,P003,2.0238521442911317,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Coal mining,P004,12.665806997623472,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Oil extraction,P005,5.93401630247313,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Natural gas extraction,P006,6.69386295082262,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Food processing,P007,2.3426820074136474,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Textiles,P008,1.9762450738507735,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Wood products,P009,4.820617329625699,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Paper products,P010,4.540302292329226,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Chemical products,P011,1.7250684069588835,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Plastic products,P012,2.948905798676935,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Glass products,P013,2.7293970888017816,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Metal products,P014,1.0124368909429569,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Machinery,P015,3.1091243971489324,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Electronics,P016,4.398972012417507,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Vehicles,P017,4.090431149079189,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Electricity,P018,18.85510180146684,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Water supply,P019,3.2520367848515845,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PL,Poland,Waste management,P020,3.813938551457123,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Crop cultivation,P000,6.506718626645114,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Animal farming,P001,1.319684865874065,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Forestry,P002,7.518239530743959,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Fishing,P003,3.457673758936705,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Coal mining,P004,13.375836725769014,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Oil extraction,P005,7.777177694641328,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Natural gas extraction,P006,10.580146116894069,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Food processing,P007,1.9671633799558497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Textiles,P008,1.6100010534327172,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Wood products,P009,1.6870074390538845,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Paper products,P010,4.705542718295036,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Chemical products,P011,2.121362608785944,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Plastic products,P012,1.7008721796891986,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Glass products,P013,3.279852459715238,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Metal products,P014,2.005223761583421,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Machinery,P015,3.9479037737333416,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Electronics,P016,1.923436824382916,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Vehicles,P017,3.794020180727184,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Electricity,P018,5.857344369839237,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Water supply,P019,2.0507400451090185,kg CO2e/EUR,2023,emissions_by_country_product.csv
+PT,Portugal,Waste management,P020,3.2803294630690276,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Crop cultivation,P000,2.829733654018612,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Animal farming,P001,3.926580037731624,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Forestry,P002,6.496077096873124,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Fishing,P003,7.048521936450414,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Coal mining,P004,12.041723537944035,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Oil extraction,P005,16.6674383319976,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Natural gas extraction,P006,13.859127855026848,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Food processing,P007,2.8650624757229015,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Textiles,P008,2.7360371477335876,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Wood products,P009,4.960728615985782,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Paper products,P010,2.423763693381405,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Chemical products,P011,3.178061881939873,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Plastic products,P012,2.3078431050121138,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Glass products,P013,3.0846695173076832,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Metal products,P014,4.985595381055301,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Machinery,P015,4.857699762787493,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Electronics,P016,4.826929000609141,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Vehicles,P017,2.882423046274724,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Electricity,P018,11.22133401154491,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Water supply,P019,3.5957956331267114,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RO,Romania,Waste management,P020,4.879494183681602,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Crop cultivation,P000,3.9465748285238966,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Animal farming,P001,3.059011112963284,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Forestry,P002,2.0492489326811905,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Fishing,P003,2.3218477185028834,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Coal mining,P004,14.531657148155434,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Oil extraction,P005,15.105801010356918,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Natural gas extraction,P006,15.331701500776605,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Food processing,P007,0.5279891859578738,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Textiles,P008,1.1826583488710782,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Wood products,P009,4.21877940851922,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Paper products,P010,4.179885127504461,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Chemical products,P011,1.8399063595471776,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Plastic products,P012,3.960206444980786,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Glass products,P013,1.0755048146121453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Metal products,P014,4.2717826539198205,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Machinery,P015,2.081176741978523,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Electronics,P016,3.6975323039347514,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Vehicles,P017,1.5729342431475817,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Electricity,P018,9.285422676156465,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Water supply,P019,4.641385896627324,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SE,Sweden,Waste management,P020,1.2987684968421729,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Crop cultivation,P000,1.1101841994892545,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Animal farming,P001,7.247994440067136,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Forestry,P002,2.460613591399067,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Fishing,P003,2.7672247445293583,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Coal mining,P004,15.546671300910605,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Oil extraction,P005,19.65875859024862,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Natural gas extraction,P006,18.101608151681283,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Food processing,P007,4.278199854816791,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Textiles,P008,1.0150054594826,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Wood products,P009,3.665501239349222,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Paper products,P010,1.0930164506451892,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Chemical products,P011,3.462821259215935,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Plastic products,P012,0.93103323071764,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Glass products,P013,0.7066945929039847,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Metal products,P014,1.220565878831441,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Machinery,P015,2.776729718816042,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Electronics,P016,3.9117014527370224,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Vehicles,P017,2.1634272369524057,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Electricity,P018,13.956068761877605,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Water supply,P019,4.652156475286219,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SI,Slovenia,Waste management,P020,2.5922823626047933,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Crop cultivation,P000,4.878695042656094,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Animal farming,P001,1.5002690268418857,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Forestry,P002,3.191137736833019,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Fishing,P003,2.2723925387897848,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Coal mining,P004,5.258428664904854,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Oil extraction,P005,5.013511208070212,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Natural gas extraction,P006,8.47155453611168,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Food processing,P007,2.363780684577909,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Textiles,P008,1.016084527827575,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Wood products,P009,2.4180289205864423,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Paper products,P010,2.230307490052254,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Chemical products,P011,1.5056439450217356,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Plastic products,P012,1.6758282349113645,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Glass products,P013,2.1463436246999112,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Metal products,P014,3.8088341400395858,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Machinery,P015,2.277352072334113,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Electronics,P016,2.1904874049208996,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Vehicles,P017,2.1732171187327243,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Electricity,P018,7.809081938479232,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Water supply,P019,1.3717063699427996,kg CO2e/EUR,2023,emissions_by_country_product.csv
+SK,Slovakia,Waste management,P020,0.971197738672258,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Crop cultivation,P000,5.885852159714658,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Animal farming,P001,5.193743179973608,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Forestry,P002,2.6419020625782257,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Fishing,P003,2.6935900952165364,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Coal mining,P004,5.60070713047577,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Oil extraction,P005,18.775700235709714,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Natural gas extraction,P006,5.00736202682249,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Food processing,P007,2.7269325826411226,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Textiles,P008,3.539589068017944,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Wood products,P009,2.804161318070123,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Paper products,P010,4.268310010508632,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Chemical products,P011,3.2181352034797546,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Plastic products,P012,0.9418929713423748,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Glass products,P013,1.5925234510303627,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Metal products,P014,1.3956447976877642,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Machinery,P015,3.55176567966808,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Electronics,P016,2.733357230124106,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Vehicles,P017,1.4897562708763026,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Electricity,P018,15.890094040394942,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Water supply,P019,1.7560378710622615,kg CO2e/EUR,2023,emissions_by_country_product.csv
+GB,United Kingdom,Waste management,P020,1.3603192815306997,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Crop cultivation,P000,1.8685017382016615,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Animal farming,P001,2.7032326122162873,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Forestry,P002,5.404543236706328,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Fishing,P003,7.256207639694042,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Coal mining,P004,8.617866078683493,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Oil extraction,P005,10.029478013419736,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Natural gas extraction,P006,6.363664247570504,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Food processing,P007,3.9829903131595894,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Textiles,P008,4.123837088569347,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Wood products,P009,2.9796340137739428,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Paper products,P010,1.1293457215042786,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Chemical products,P011,3.504717864293226,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Plastic products,P012,5.175982614869961,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Glass products,P013,4.046367566502579,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Metal products,P014,0.5709839260863446,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Machinery,P015,1.0351748505337448,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Electronics,P016,3.5710670503518527,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Vehicles,P017,1.909703842012975,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Electricity,P018,7.289054677173546,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Water supply,P019,4.624660102769143,kg CO2e/EUR,2023,emissions_by_country_product.csv
+US,United States,Waste management,P020,3.2295887843316353,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Crop cultivation,P000,2.238913926075768,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Animal farming,P001,2.020648212590007,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Forestry,P002,2.904633150585453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Fishing,P003,4.248908012010079,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Coal mining,P004,14.775047196861246,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Oil extraction,P005,5.0900069042247384,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Natural gas extraction,P006,15.67454988808436,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Food processing,P007,1.618836006582197,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Textiles,P008,4.649776445543486,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Wood products,P009,2.8803519378297593,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Paper products,P010,1.936187869442903,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Chemical products,P011,3.0355743144084646,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Plastic products,P012,3.9172098138658966,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Glass products,P013,1.3438323843527726,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Metal products,P014,1.3321945848109191,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Machinery,P015,2.1950737112396097,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Electronics,P016,1.1262900608782616,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Vehicles,P017,1.2086409549908457,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Electricity,P018,5.532004351159388,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Water supply,P019,4.089947654569328,kg CO2e/EUR,2023,emissions_by_country_product.csv
+JP,Japan,Waste management,P020,4.657332577786866,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Crop cultivation,P000,4.374158376890496,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Animal farming,P001,6.302448470847343,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Forestry,P002,7.720002424284794,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Fishing,P003,3.1878413148868607,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Coal mining,P004,27.118921756032453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Oil extraction,P005,17.5507498926958,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Natural gas extraction,P006,18.22956985985885,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Food processing,P007,5.256938115680822,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Textiles,P008,1.977440683373059,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Wood products,P009,4.901525722107044,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Paper products,P010,1.762666284178577,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Chemical products,P011,7.127811646783548,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Plastic products,P012,2.7913897715368736,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Glass products,P013,5.137155364120268,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Metal products,P014,4.668901811517162,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Machinery,P015,2.540526142485279,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Electronics,P016,3.545576656471468,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Vehicles,P017,3.256825801928378,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Electricity,P018,26.490051348912463,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Water supply,P019,4.520757576663458,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CN,China,Waste management,P020,1.592701344256258,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Crop cultivation,P000,3.244957015018312,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Animal farming,P001,3.988412775057741,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Forestry,P002,1.3469528185408453,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Fishing,P003,7.241373627470508,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Coal mining,P004,16.32917703250419,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Oil extraction,P005,13.056433974882887,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Natural gas extraction,P006,12.867634325547014,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Food processing,P007,1.2571192551091137,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Textiles,P008,1.3059084207889196,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Wood products,P009,1.219589159576778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Paper products,P010,4.735696675622997,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Chemical products,P011,3.9330533094356017,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Plastic products,P012,2.594001160624773,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Glass products,P013,4.9511645702475935,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Metal products,P014,3.6690505267859392,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Machinery,P015,3.275034312001726,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Electronics,P016,0.9730347828879616,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Vehicles,P017,4.5922285174925594,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Electricity,P018,8.368470676295434,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Water supply,P019,3.096103960166445,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CA,Canada,Waste management,P020,3.9576465479763496,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Crop cultivation,P000,3.2165870306036988,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Animal farming,P001,5.890247269628856,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Forestry,P002,5.227170242119602,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Fishing,P003,5.8476618175257435,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Coal mining,P004,11.744037604712574,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Oil extraction,P005,6.389042252125319,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Natural gas extraction,P006,16.823784111659876,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Food processing,P007,4.69202956814563,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Textiles,P008,4.378324376048626,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Wood products,P009,3.5748522095090505,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Paper products,P010,2.045165823015979,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Chemical products,P011,4.93876734296499,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Plastic products,P012,0.7122571098372641,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Glass products,P013,3.9926290501357657,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Metal products,P014,4.161017720735733,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Machinery,P015,3.374239510613355,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Electronics,P016,0.558530770468151,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Vehicles,P017,4.427362858119046,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Electricity,P018,15.53117693877779,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Water supply,P019,4.637035871780244,kg CO2e/EUR,2023,emissions_by_country_product.csv
+KR,South Korea,Waste management,P020,4.612963093783917,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Crop cultivation,P000,7.521860380071623,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Animal farming,P001,3.9562326208816225,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Forestry,P002,3.419591900586732,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Fishing,P003,7.122470536238097,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Coal mining,P004,5.061886317482255,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Oil extraction,P005,13.569906540616635,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Natural gas extraction,P006,12.596143637796448,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Food processing,P007,1.3642994227519778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Textiles,P008,3.1180235816124955,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Wood products,P009,4.478433071669798,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Paper products,P010,1.477100710891984,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Chemical products,P011,4.876677278130989,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Plastic products,P012,2.724719240979078,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Glass products,P013,3.6814470421162135,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Metal products,P014,3.734901725857142,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Machinery,P015,3.491659746740369,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Electronics,P016,1.1362945811891207,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Vehicles,P017,1.4803309658052652,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Electricity,P018,7.691125525253673,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Water supply,P019,2.835350923270608,kg CO2e/EUR,2023,emissions_by_country_product.csv
+BR,Brazil,Waste management,P020,2.5771740359744157,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Crop cultivation,P000,4.846114583154332,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Animal farming,P001,6.506189943192287,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Forestry,P002,3.127250215571537,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Fishing,P003,9.323804210068328,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Coal mining,P004,21.753057879400473,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Oil extraction,P005,21.602053425415104,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Natural gas extraction,P006,15.300754263988583,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Food processing,P007,5.78429047158107,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Textiles,P008,4.6693449513508,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Wood products,P009,5.524494164406188,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Paper products,P010,3.761586277890219,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Chemical products,P011,4.836810208434148,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Plastic products,P012,4.383870885477093,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Glass products,P013,3.408995772940829,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Metal products,P014,3.034928623827784,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Machinery,P015,2.5211680489695816,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Electronics,P016,2.5611700751995055,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Vehicles,P017,3.409346951331059,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Electricity,P018,14.397297043815806,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Water supply,P019,1.4034027971021354,kg CO2e/EUR,2023,emissions_by_country_product.csv
+IN,India,Waste management,P020,6.386185066579583,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Crop cultivation,P000,6.543750488911504,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Animal farming,P001,3.0450603915675836,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Forestry,P002,7.179858965013087,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Fishing,P003,6.941170062878334,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Coal mining,P004,16.670701548880952,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Oil extraction,P005,17.3258321755227,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Natural gas extraction,P006,12.649488075374691,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Food processing,P007,2.6137944667887627,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Textiles,P008,3.492510726422371,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Wood products,P009,1.9179745215273905,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Paper products,P010,3.0944775294006654,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Chemical products,P011,4.394786634121092,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Plastic products,P012,3.024418919856811,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Glass products,P013,0.9059563505541371,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Metal products,P014,1.8998091630056615,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Machinery,P015,4.54380908906812,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Electronics,P016,2.5640162998389746,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Vehicles,P017,2.219036770272023,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Electricity,P018,5.03187625415887,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Water supply,P019,3.7290637738130545,kg CO2e/EUR,2023,emissions_by_country_product.csv
+MX,Mexico,Waste management,P020,3.1809066766971315,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Crop cultivation,P000,5.545701742655206,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Animal farming,P001,4.330480547364594,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Forestry,P002,4.815140980751495,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Fishing,P003,1.608956384148625,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Coal mining,P004,11.959179342649357,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Oil extraction,P005,24.778091402149737,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Natural gas extraction,P006,11.231857672160793,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Food processing,P007,3.294647299353191,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Textiles,P008,3.1128719303807695,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Wood products,P009,5.1626879972463335,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Paper products,P010,1.391377239095054,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Chemical products,P011,4.264175746786564,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Plastic products,P012,5.576225254447669,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Glass products,P013,6.521083376817689,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Metal products,P014,2.1956660087884567,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Machinery,P015,0.8199583477458771,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Electronics,P016,4.949212735434271,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Vehicles,P017,1.2311444392207105,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Electricity,P018,22.344592351133112,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Water supply,P019,2.51079727827672,kg CO2e/EUR,2023,emissions_by_country_product.csv
+RU,Russia,Waste management,P020,1.4764955274987246,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Crop cultivation,P000,4.848980887532539,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Animal farming,P001,7.303603017247118,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Forestry,P002,5.88597306056383,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Fishing,P003,6.490713602213089,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Coal mining,P004,7.390301801830653,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Oil extraction,P005,14.820076172031568,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Natural gas extraction,P006,19.106809867986065,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Food processing,P007,4.479808798886097,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Textiles,P008,1.321448962782814,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Wood products,P009,2.3562685248180744,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Paper products,P010,3.7122034962028376,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Chemical products,P011,0.94971745407675,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Plastic products,P012,2.424843033773757,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Glass products,P013,2.635631565431499,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Metal products,P014,2.7826288395559384,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Machinery,P015,0.6188005317641481,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Electronics,P016,3.896878927334919,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Vehicles,P017,3.7492130323899246,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Electricity,P018,16.429805555968976,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Water supply,P019,3.127347726489936,kg CO2e/EUR,2023,emissions_by_country_product.csv
+AU,Australia,Waste management,P020,1.3458845213833817,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Crop cultivation,P000,3.447472024308126,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Animal farming,P001,1.7425220599814364,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Forestry,P002,6.190576385727346,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Fishing,P003,1.5789739823160835,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Coal mining,P004,9.890893298553468,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Oil extraction,P005,12.996109915374328,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Natural gas extraction,P006,9.869689316322068,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Food processing,P007,2.539606243797024,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Textiles,P008,2.287412892840875,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Wood products,P009,3.3785553530125796,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Paper products,P010,3.88218130283155,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Chemical products,P011,1.7337207387252778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Plastic products,P012,1.7317293736352697,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Glass products,P013,3.329361285462541,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Metal products,P014,1.2164624735673888,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Machinery,P015,1.732327460638552,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Electronics,P016,3.6112520594634985,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Vehicles,P017,1.388594019317807,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Electricity,P018,9.960374406701211,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Water supply,P019,4.637128534531877,kg CO2e/EUR,2023,emissions_by_country_product.csv
+CH,Switzerland,Waste management,P020,2.0551003205706957,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Crop cultivation,P000,7.5417344214554065,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Animal farming,P001,6.979323757895373,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Forestry,P002,4.994063882838647,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Fishing,P003,5.611181903541054,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Coal mining,P004,9.471889323183952,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Oil extraction,P005,11.48190966394365,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Natural gas extraction,P006,13.201375380148743,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Food processing,P007,3.7157163448271704,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Textiles,P008,4.974048021841236,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Wood products,P009,4.883781346404037,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Paper products,P010,0.8043459077814624,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Chemical products,P011,2.6434006826007383,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Plastic products,P012,1.5752448677766595,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Glass products,P013,3.2244794834820114,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Metal products,P014,0.9044810314715056,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Machinery,P015,4.882024991463697,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Electronics,P016,4.394308935871436,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Vehicles,P017,2.4406325395814044,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Electricity,P018,13.480203445004586,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Water supply,P019,1.8848236749345448,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TR,Turkey,Waste management,P020,1.9330915388371384,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Crop cultivation,P000,5.709278634199035,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Animal farming,P001,1.6239084374330817,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Forestry,P002,1.8441266952517843,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Fishing,P003,2.610005406573899,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Coal mining,P004,11.827021760125424,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Oil extraction,P005,7.2822925009262285,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Natural gas extraction,P006,14.01627377194351,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Food processing,P007,4.810097685840321,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Textiles,P008,4.609347149873802,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Wood products,P009,2.412203821426714,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Paper products,P010,1.1011072722086703,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Chemical products,P011,1.776596161568413,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Plastic products,P012,2.5069833402137687,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Glass products,P013,1.6141432252678396,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Metal products,P014,0.9642004905701704,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Machinery,P015,4.363418598291726,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Electronics,P016,2.7380076434557052,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Vehicles,P017,4.591439920855959,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Electricity,P018,9.835082760391892,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Water supply,P019,0.8934730308519842,kg CO2e/EUR,2023,emissions_by_country_product.csv
+TW,Taiwan,Waste management,P020,4.283557539354579,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Crop cultivation,P000,2.80118360329507,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Animal farming,P001,4.069169617587715,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Forestry,P002,4.581268683831428,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Fishing,P003,6.483690465755372,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Coal mining,P004,6.186167124356288,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Oil extraction,P005,15.57947611962778,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Natural gas extraction,P006,17.02760892017019,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Food processing,P007,4.044332599798044,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Textiles,P008,3.464175816141814,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Wood products,P009,1.6687383845817791,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Paper products,P010,1.6814257957464722,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Chemical products,P011,1.6106458533882797,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Plastic products,P012,3.9074362368593185,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Glass products,P013,3.1966952650496814,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Metal products,P014,2.4119013654655963,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Machinery,P015,3.559855475632837,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Electronics,P016,3.897655211194458,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Vehicles,P017,3.4592941906707972,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Electricity,P018,10.7537632282334,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Water supply,P019,2.587127688219106,kg CO2e/EUR,2023,emissions_by_country_product.csv
+NO,Norway,Waste management,P020,2.611772819883289,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Crop cultivation,P000,1.4647304875687055,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Animal farming,P001,3.956137173592894,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Forestry,P002,1.672769490886994,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Fishing,P003,5.340722630434509,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Coal mining,P004,15.928784033793912,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Oil extraction,P005,16.22628741628537,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Natural gas extraction,P006,13.641185143144217,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Food processing,P007,3.896873490346113,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Textiles,P008,4.095333475955593,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Wood products,P009,2.123888160995499,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Paper products,P010,2.7438973479908695,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Chemical products,P011,4.14164449231128,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Plastic products,P012,1.0633403801429386,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Glass products,P013,2.792039858728678,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Metal products,P014,1.763224296842706,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Machinery,P015,4.935925772698784,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Electronics,P016,4.2676325855061235,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Vehicles,P017,2.235127499725291,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Electricity,P018,12.523443712439796,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Water supply,P019,1.1288787900614945,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ID,Indonesia,Waste management,P020,4.879044200929132,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Crop cultivation,P000,7.774828618992544,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Animal farming,P001,7.604183362447664,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Forestry,P002,2.7137963473056375,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Fishing,P003,5.704782524279414,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Coal mining,P004,10.411067979892488,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Oil extraction,P005,15.692145336217743,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Natural gas extraction,P006,5.978066327657129,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Food processing,P007,4.79341585437696,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Textiles,P008,3.038626856364168,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Wood products,P009,3.2662774777009065,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Paper products,P010,3.309639478583109,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Chemical products,P011,0.930000197791404,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Plastic products,P012,1.4651975994504989,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Glass products,P013,1.591061443974657,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Metal products,P014,1.6750818684787536,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Machinery,P015,4.250736168473497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Electronics,P016,0.6693613026291929,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Vehicles,P017,4.545406928703137,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Electricity,P018,12.30129305842762,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Water supply,P019,3.4308593498934887,kg CO2e/EUR,2023,emissions_by_country_product.csv
+ZA,South Africa,Waste management,P020,1.07600036976701,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Crop cultivation,P000,2.8578999021894314,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Animal farming,P001,7.329028112952814,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Forestry,P002,5.304329579879917,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Fishing,P003,1.8864300303146333,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Coal mining,P004,11.19969074248386,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Oil extraction,P005,16.950662999637213,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Natural gas extraction,P006,8.329744103195887,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Food processing,P007,3.6183981953918622,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Textiles,P008,1.1846046040382496,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Wood products,P009,2.3545241104441974,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Paper products,P010,2.535535987409749,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Chemical products,P011,4.5078248639896,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Plastic products,P012,1.5710052916321584,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Glass products,P013,4.9002568131991175,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Metal products,P014,3.635271017840981,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Machinery,P015,2.933553236800575,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Electronics,P016,4.558471286594182,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Vehicles,P017,1.0603479191505645,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Electricity,P018,5.3482251812613075,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Water supply,P019,3.057753082875536,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WA,RoW Asia and Pacific,Waste management,P020,2.2656024137300497,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Crop cultivation,P000,1.0975606949396153,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Animal farming,P001,4.3227279902418845,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Forestry,P002,5.824559726851556,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Fishing,P003,6.452591356877455,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Coal mining,P004,14.792656214447048,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Oil extraction,P005,10.112869289960322,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Natural gas extraction,P006,18.901170466627992,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Food processing,P007,2.3757945660436564,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Textiles,P008,0.5274268269929647,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Wood products,P009,0.9170709570657356,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Paper products,P010,2.117678750369938,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Chemical products,P011,2.8086063333043905,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Plastic products,P012,1.6406379840714336,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Glass products,P013,1.5417252899085667,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Metal products,P014,4.737099828137047,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Machinery,P015,0.7485281957037595,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Electronics,P016,1.272361929775927,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Vehicles,P017,3.048027376491483,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Electricity,P018,15.962044769340553,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Water supply,P019,0.9630136426450432,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WF,RoW Africa,Waste management,P020,2.4743799279188003,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Crop cultivation,P000,3.2835827557806248,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Animal farming,P001,7.856626951093409,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Forestry,P002,3.771766751118786,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Fishing,P003,2.3919112786478416,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Coal mining,P004,18.329836446493665,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Oil extraction,P005,14.269034715143157,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Natural gas extraction,P006,13.089430251835378,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Food processing,P007,1.2668856385075964,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Textiles,P008,3.1419623704435584,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Wood products,P009,4.367118053159048,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Paper products,P010,4.218172662438574,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Chemical products,P011,3.7855304827794702,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Plastic products,P012,4.006862689633429,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Glass products,P013,3.0544483314668875,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Metal products,P014,1.588506877265913,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Machinery,P015,4.167027363690322,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Electronics,P016,4.5054922668602755,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Vehicles,P017,2.8003633054085877,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Electricity,P018,16.262407840364556,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Water supply,P019,0.990934465983276,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WL,RoW America,Waste management,P020,4.683865980125019,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Crop cultivation,P000,3.4389505323288843,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Animal farming,P001,3.0948201596281755,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Forestry,P002,3.2307582529501877,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Fishing,P003,6.305045824798011,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Coal mining,P004,8.43278663531543,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Oil extraction,P005,19.072944937208277,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Natural gas extraction,P006,17.521094300444098,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Food processing,P007,3.2910855537959995,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Textiles,P008,1.304792374756078,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Wood products,P009,3.65163582896607,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Paper products,P010,0.5674810099424437,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Chemical products,P011,4.748461498476896,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Plastic products,P012,4.349735353913879,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Glass products,P013,2.748515930163589,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Metal products,P014,1.5563731179568183,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Machinery,P015,1.0841979103450832,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Electronics,P016,3.3725915133513857,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Vehicles,P017,1.7086247575742233,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Electricity,P018,7.432507888351349,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Water supply,P019,4.328428322775526,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WM,RoW Middle East,Waste management,P020,3.728765676441189,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Crop cultivation,P000,4.529119610884102,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Animal farming,P001,3.324412292650469,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Forestry,P002,2.9010067440371827,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Fishing,P003,1.7031769736479891,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Coal mining,P004,15.143052460957556,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Oil extraction,P005,11.522941265932907,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Natural gas extraction,P006,14.531964031391556,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Food processing,P007,3.2084875769461476,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Textiles,P008,1.3139794436757166,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Wood products,P009,3.1926178878981593,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Paper products,P010,3.425010300918152,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Chemical products,P011,1.3746430807487882,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Plastic products,P012,3.8173378551177097,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Glass products,P013,0.8615918248788668,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Metal products,P014,3.72111807783361,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Machinery,P015,2.8102829371228957,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Electronics,P016,2.801413954803465,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Vehicles,P017,1.9715619893974663,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Electricity,P018,16.347573980251113,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Water supply,P019,1.2805295849239164,kg CO2e/EUR,2023,emissions_by_country_product.csv
+WE,RoW Europe,Waste management,P020,0.6778866280562446,kg CO2e/EUR,2023,emissions_by_country_product.csv

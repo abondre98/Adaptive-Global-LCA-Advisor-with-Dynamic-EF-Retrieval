@@ -1,0 +1,209 @@
+2025-03-12 09:45:52,896 - __main__ - INFO - Starting Adaptive Global LCA Advisor data extraction and processing
+2025-03-12 09:45:52,897 - __main__ - INFO - Starting extraction process for all datasets
+2025-03-12 09:45:52,897 - __main__ - INFO - Found 9 extractor modules: ipcc_efdb_extractor, ipcc_extractor, useeio_extractor, ipcc_ar6_extractor, climate_trace_extractor, agribalyse_extractor, greet_extractor, openlca_extractor, exiobase_extractor
+2025-03-12 09:45:52,897 - __main__ - INFO - Running extractor: ipcc_efdb_extractor
+2025-03-12 09:45:52,925 - utils - INFO - [IPCC_EFDB] Fetching emission factors
+2025-03-12 09:45:54,505 - extractors.ipcc_efdb_extractor - INFO - Successfully accessed IPCC EFDB website
+2025-03-12 09:45:54,505 - extractors.ipcc_efdb_extractor - WARNING - Real data extraction would require permission and proper scraping techniques
+2025-03-12 09:45:54,505 - extractors.ipcc_efdb_extractor - INFO - Using simulated data for demonstration
+2025-03-12 09:45:54,506 - extractors.ipcc_efdb_extractor - INFO - Using simulated data for IPCC EFDB
+2025-03-12 09:45:54,506 - utils - INFO - [IPCC_EFDB] Creating simulated dataset
+2025-03-12 09:45:54,520 - extractors.ipcc_efdb_extractor - INFO - Created simulated IPCC EFDB dataset with 190 records
+2025-03-12 09:45:54,520 - utils - INFO - [IPCC_EFDB] Preprocessing data
+2025-03-12 09:45:54,522 - extractors.ipcc_efdb_extractor - INFO - Preprocessed data with 190 records
+2025-03-12 09:45:54,523 - utils - INFO - [IPCC_EFDB] Converting to standard format
+2025-03-12 09:45:54,528 - extractors.ipcc_efdb_extractor - INFO - Converted to standard format with 190 records
+2025-03-12 09:45:54,528 - utils - INFO - [IPCC_EFDB] Cleaning dataset
+2025-03-12 09:45:54,529 - extractors.ipcc_efdb_extractor - INFO - Detected 4 outliers in emission factor values
+2025-03-12 09:45:54,532 - utils - INFO - Saved DataFrame with 190 rows to data/processed/ipcc_efdb_clean.csv
+2025-03-12 09:45:54,537 - utils - INFO - Created checksum 83013f5bb733ea716dadffce12544664 for data/processed/ipcc_efdb_clean.csv
+2025-03-12 09:45:54,537 - extractors.ipcc_efdb_extractor - INFO - Cleaned dataset has 190 rows
+2025-03-12 09:45:54,537 - extractors.ipcc_efdb_extractor - INFO - IPCC EFDB extraction and cleaning completed: data/processed/ipcc_efdb_clean.csv
+2025-03-12 09:45:54,537 - __main__ - INFO - Completed ipcc_efdb_extractor in 1.64 seconds
+2025-03-12 09:45:54,537 - __main__ - INFO - Running extractor: ipcc_extractor
+2025-03-12 09:45:54,537 - utils - INFO - [IPCC] Getting report links
+2025-03-12 09:45:55,703 - extractors.ipcc_extractor - WARNING - No report links found, using predefined multipliers only
+2025-03-12 09:45:55,703 - utils - INFO - [IPCC] Extracting predefined multipliers
+2025-03-12 09:45:55,704 - utils - INFO - [IPCC] Combining multipliers
+2025-03-12 09:45:55,705 - utils - INFO - [IPCC] Cleaning dataset
+2025-03-12 09:45:55,707 - utils - INFO - Saved DataFrame with 10 rows to data/processed/ipcc_ar6_multipliers.csv
+2025-03-12 09:45:55,708 - utils - INFO - Created checksum c2c462845ee58b76315beedbd313697a for data/processed/ipcc_ar6_multipliers.csv
+2025-03-12 09:45:55,708 - extractors.ipcc_extractor - INFO - Cleaned dataset has 10 rows
+2025-03-12 09:45:55,708 - extractors.ipcc_extractor - INFO - IPCC AR6 extraction and cleaning completed: data/processed/ipcc_ar6_multipliers.csv
+2025-03-12 09:45:55,708 - __main__ - INFO - Completed ipcc_extractor in 1.17 seconds
+2025-03-12 09:45:55,708 - __main__ - INFO - Running extractor: useeio_extractor
+2025-03-12 09:45:55,746 - utils - INFO - [USEEIO] Cloning repository
+2025-03-12 09:45:55,746 - extractors.useeio_extractor - INFO - USEEIO repository already exists at data/raw/useeio
+2025-03-12 09:45:55,973 - extractors.useeio_extractor - INFO - Pulled latest changes from repository
+2025-03-12 09:45:55,973 - utils - INFO - [USEEIO] Finding relevant files
+2025-03-12 09:45:55,973 - extractors.useeio_extractor - INFO - Found alternative relevant file: data/raw/useeio/import_emission_factors/output/US_detail_import_factors_exiobase_2019_17sch.csv
+2025-03-12 09:45:55,973 - extractors.useeio_extractor - INFO - Found alternative relevant file: data/raw/useeio/import_emission_factors/output/US_summary_import_factors_exiobase_2019_17sch.csv
+2025-03-12 09:45:55,973 - extractors.useeio_extractor - INFO - Found alternative relevant file: data/raw/useeio/import_emission_factors/output/Regional_summary_import_factors_exiobase_2019_17sch.csv
+2025-03-12 09:45:55,973 - extractors.useeio_extractor - INFO - Found alternative relevant file: data/raw/useeio/import_emission_factors/output/Regional_detail_import_factors_exiobase_2019_17sch.csv
+2025-03-12 09:45:55,976 - utils - INFO - [USEEIO] Reading and merging files
+2025-03-12 09:45:55,979 - extractors.useeio_extractor - INFO - Read file data/raw/useeio/import_emission_factors/output/US_detail_import_factors_exiobase_2019_17sch.csv with 1490 rows
+2025-03-12 09:45:55,980 - extractors.useeio_extractor - INFO - Read file data/raw/useeio/import_emission_factors/output/US_summary_import_factors_exiobase_2019_17sch.csv with 220 rows
+2025-03-12 09:45:55,982 - extractors.useeio_extractor - INFO - Read file data/raw/useeio/import_emission_factors/output/Regional_summary_import_factors_exiobase_2019_17sch.csv with 1515 rows
+2025-03-12 09:45:55,989 - extractors.useeio_extractor - INFO - Read file data/raw/useeio/import_emission_factors/output/Regional_detail_import_factors_exiobase_2019_17sch.csv with 10405 rows
+2025-03-12 09:45:56,019 - utils - INFO - [USEEIO] Converting to standard format
+2025-03-12 09:45:56,019 - extractors.useeio_extractor - WARNING - Could not identify all required columns, using placeholders
+2025-03-12 09:45:56,022 - utils - INFO - [USEEIO] Cleaning dataset
+2025-03-12 09:45:56,030 - extractors.useeio_extractor - INFO - Detected 0 outliers in emission factor values
+2025-03-12 09:45:56,032 - utils - INFO - Saved DataFrame with 342 rows to data/processed/useeio_v2.1_clean.csv
+2025-03-12 09:45:56,033 - utils - INFO - Created checksum b062e3728ec81dde33b0cea27eef8115 for data/processed/useeio_v2.1_clean.csv
+2025-03-12 09:45:56,033 - extractors.useeio_extractor - INFO - Cleaned dataset has 342 rows
+2025-03-12 09:45:56,033 - extractors.useeio_extractor - INFO - USEEIO extraction and cleaning completed: data/processed/useeio_v2.1_clean.csv
+2025-03-12 09:45:56,034 - __main__ - INFO - Completed useeio_extractor in 0.33 seconds
+2025-03-12 09:45:56,034 - __main__ - INFO - Running extractor: ipcc_ar6_extractor
+2025-03-12 09:45:56,034 - utils - INFO - [IPCC_AR6] Downloading data
+2025-03-12 09:45:56,034 - extractors.ipcc_ar6_extractor - INFO - Using existing IPCC AR6 data from data/raw/ipcc_ar6_raw.json
+2025-03-12 09:45:56,035 - utils - INFO - [IPCC_AR6] Processing data
+2025-03-12 09:45:56,035 - extractors.ipcc_ar6_extractor - INFO - Processed 78 IPCC AR6 multipliers
+2025-03-12 09:45:56,035 - utils - INFO - [IPCC_AR6] Converting to standard format
+2025-03-12 09:45:56,036 - utils - INFO - [IPCC_AR6] Cleaning dataset
+2025-03-12 09:45:56,037 - extractors.ipcc_ar6_extractor - INFO - Detected 0 outliers in multiplier values
+2025-03-12 09:45:56,038 - utils - INFO - Saved DataFrame with 78 rows to data/processed/ipcc_ar6_clean.csv
+2025-03-12 09:45:56,041 - utils - INFO - Created checksum 0721184fe8bed5144568883a30a38be2 for data/processed/ipcc_ar6_clean.csv
+2025-03-12 09:45:56,041 - extractors.ipcc_ar6_extractor - INFO - Cleaned dataset has 78 rows
+2025-03-12 09:45:56,041 - extractors.ipcc_ar6_extractor - INFO - IPCC AR6 extraction and cleaning completed: data/processed/ipcc_ar6_clean.csv
+2025-03-12 09:45:56,041 - __main__ - INFO - Completed ipcc_ar6_extractor in 0.01 seconds
+2025-03-12 09:45:56,041 - __main__ - INFO - Running extractor: climate_trace_extractor
+2025-03-12 09:45:56,042 - utils - INFO - [CLIMATE_TRACE] Fetching all data
+2025-03-12 09:45:56,042 - extractors.climate_trace_extractor - INFO - Using existing Climate TRACE data from data/raw/climate_trace_latest.json
+2025-03-12 09:45:56,042 - utils - INFO - [CLIMATE_TRACE] Processing emissions data
+2025-03-12 09:45:56,043 - extractors.climate_trace_extractor - INFO - Processed 50 emission records from Climate TRACE
+2025-03-12 09:45:56,043 - utils - INFO - [CLIMATE_TRACE] Converting to EF format
+2025-03-12 09:45:56,045 - utils - INFO - [CLIMATE_TRACE] Cleaning dataset
+2025-03-12 09:45:56,045 - extractors.climate_trace_extractor - INFO - Detected 0 outliers in emission factor values
+2025-03-12 09:45:56,046 - utils - INFO - Saved DataFrame with 50 rows to data/processed/climate_trace_clean.csv
+2025-03-12 09:45:56,048 - utils - INFO - Created checksum c3832956bd0ca78631b66f3a085b3dc9 for data/processed/climate_trace_clean.csv
+2025-03-12 09:45:56,048 - extractors.climate_trace_extractor - INFO - Cleaned dataset has 50 rows
+2025-03-12 09:45:56,048 - extractors.climate_trace_extractor - INFO - Climate TRACE extraction and cleaning completed: data/processed/climate_trace_clean.csv
+2025-03-12 09:45:56,048 - __main__ - INFO - Completed climate_trace_extractor in 0.01 seconds
+2025-03-12 09:45:56,048 - __main__ - INFO - Running extractor: agribalyse_extractor
+2025-03-12 09:45:56,048 - utils - INFO - [AGRIBALYSE] Downloading dataset
+2025-03-12 09:45:56,048 - extractors.agribalyse_extractor - INFO - Agribalyse dataset already exists at data/raw/agribalyse_3.1_raw.csv
+2025-03-12 09:45:56,048 - utils - INFO - [AGRIBALYSE] Validating dataset
+2025-03-12 09:45:56,049 - extractors.agribalyse_extractor - INFO - Successfully read file with encoding: utf-8
+2025-03-12 09:45:56,049 - extractors.agribalyse_extractor - INFO - Found columns: LCI_Name, ProductName, PEF_categoria, Climate_change_-_total, Unit, DQR
+2025-03-12 09:45:56,049 - extractors.agribalyse_extractor - INFO - Agribalyse dataset validation successful
+2025-03-12 09:45:56,049 - utils - INFO - [AGRIBALYSE] Cleaning dataset
+2025-03-12 09:45:56,049 - extractors.agribalyse_extractor - INFO - Successfully read file with encoding: utf-8
+2025-03-12 09:45:56,049 - extractors.agribalyse_extractor - INFO - Raw dataset has 20 rows and 6 columns
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Columns: LCI_Name, ProductName, PEF_categoria, Climate_change_-_total, Unit, DQR
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'LCI_Name' as product name
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'LCI_Name' as product ID
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'PEF_categoria' as product category
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'DQR' as data quality
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'Unit' as unit
+2025-03-12 09:45:56,050 - extractors.agribalyse_extractor - INFO - Using column 'Climate_change_-_total' as emission factor
+2025-03-12 09:45:56,051 - extractors.agribalyse_extractor - INFO - Detected 0 outliers in emission factor values
+2025-03-12 09:45:56,052 - utils - INFO - Saved DataFrame with 20 rows to data/processed/agribalyse_3.1_clean.csv
+2025-03-12 09:45:56,053 - utils - INFO - Created checksum 869f5b3d3de56549d3204b52d904fdf6 for data/processed/agribalyse_3.1_clean.csv
+2025-03-12 09:45:56,053 - extractors.agribalyse_extractor - INFO - Cleaned dataset has 20 rows
+2025-03-12 09:45:56,053 - extractors.agribalyse_extractor - INFO - Agribalyse extraction and cleaning completed: data/processed/agribalyse_3.1_clean.csv
+2025-03-12 09:45:56,053 - __main__ - INFO - Completed agribalyse_extractor in 0.01 seconds
+2025-03-12 09:45:56,053 - __main__ - INFO - Running extractor: greet_extractor
+2025-03-12 09:45:56,055 - utils - INFO - [GREET] Attempting to download GREET data
+2025-03-12 09:45:57,609 - extractors.greet_extractor - ERROR - Error accessing GREET website: 500 Server Error: Internal Server Error for url: https://greet.anl.gov/
+2025-03-12 09:45:57,609 - extractors.greet_extractor - INFO - Falling back to simulated data
+2025-03-12 09:45:57,610 - extractors.greet_extractor - INFO - Using simulated data for GREET model
+2025-03-12 09:45:57,610 - utils - INFO - [GREET] Creating simulated dataset
+2025-03-12 09:45:57,615 - extractors.greet_extractor - INFO - Created simulated GREET dataset with 233 records
+2025-03-12 09:45:57,616 - utils - INFO - [GREET] Preprocessing data
+2025-03-12 09:45:57,619 - extractors.greet_extractor - INFO - Preprocessed data with 233 records
+2025-03-12 09:45:57,619 - utils - INFO - [GREET] Converting to standard format
+2025-03-12 09:45:57,626 - extractors.greet_extractor - INFO - Converted to standard format with 233 records
+2025-03-12 09:45:57,626 - utils - INFO - [GREET] Cleaning dataset
+2025-03-12 09:45:57,628 - extractors.greet_extractor - INFO - Detected 4 outliers in emission factor values
+2025-03-12 09:45:57,633 - utils - INFO - Saved DataFrame with 233 rows to data/processed/greet_clean.csv
+2025-03-12 09:45:57,639 - utils - INFO - Created checksum 722c0118b23effe54935f9786df2f3dc for data/processed/greet_clean.csv
+2025-03-12 09:45:57,639 - extractors.greet_extractor - INFO - Cleaned dataset has 233 rows
+2025-03-12 09:45:57,639 - extractors.greet_extractor - INFO - GREET model extraction and cleaning completed: data/processed/greet_clean.csv
+2025-03-12 09:45:57,639 - __main__ - INFO - Completed greet_extractor in 1.59 seconds
+2025-03-12 09:45:57,639 - __main__ - INFO - Running extractor: openlca_extractor
+2025-03-12 09:45:57,640 - utils - INFO - [OPENLCA] Getting database links
+2025-03-12 09:45:58,193 - extractors.openlca_extractor - WARNING - No database links found on OpenLCA Nexus website
+2025-03-12 09:45:58,193 - extractors.openlca_extractor - WARNING - No real data obtained, using simulated data
+2025-03-12 09:45:58,193 - utils - INFO - [OPENLCA] Creating simulated dataset
+2025-03-12 09:45:58,202 - extractors.openlca_extractor - INFO - Created simulated dataset with 960 records
+2025-03-12 09:45:58,202 - utils - INFO - [OPENLCA] Converting to standard format
+2025-03-12 09:45:58,214 - extractors.openlca_extractor - INFO - Converted to standard format with 960 records
+2025-03-12 09:45:58,214 - utils - INFO - [OPENLCA] Cleaning dataset
+2025-03-12 09:45:58,216 - extractors.openlca_extractor - INFO - Detected 28 outliers in emission factor values
+2025-03-12 09:45:58,228 - utils - INFO - Saved DataFrame with 960 rows to data/processed/openlca_clean.csv
+2025-03-12 09:45:58,243 - utils - INFO - Created checksum 1748dd7519f6f2bdd905ae3cf8f9d471 for data/processed/openlca_clean.csv
+2025-03-12 09:45:58,243 - extractors.openlca_extractor - INFO - Cleaned dataset has 960 rows
+2025-03-12 09:45:58,243 - extractors.openlca_extractor - INFO - OpenLCA extraction and cleaning completed: data/processed/openlca_clean.csv
+2025-03-12 09:45:58,243 - __main__ - INFO - Completed openlca_extractor in 0.60 seconds
+2025-03-12 09:45:58,243 - __main__ - INFO - Running extractor: exiobase_extractor
+2025-03-12 09:45:58,244 - utils - INFO - [EXIOBASE] Downloading dataset
+2025-03-12 09:45:58,244 - extractors.exiobase_extractor - INFO - Attempting to download from: https://zenodo.org/records/5589597/files/EXIOBASE_3_8_2_2022_env.zip
+2025-03-12 09:45:58,718 - extractors.exiobase_extractor - WARNING - Failed to download EXIOBASE: URL returned HTML or invalid response
+2025-03-12 09:45:58,719 - utils - INFO - [EXIOBASE] Creating simulated dataset
+2025-03-12 09:45:58,728 - extractors.exiobase_extractor - INFO - Created simulated EXIOBASE dataset with 1029 entries
+2025-03-12 09:45:58,728 - utils - INFO - [EXIOBASE] Extracting files
+2025-03-12 09:45:58,729 - extractors.exiobase_extractor - INFO - EXIOBASE files already extracted to data/raw/exiobase_3.8
+2025-03-12 09:45:58,729 - utils - INFO - [EXIOBASE] Finding emission tables
+2025-03-12 09:45:58,729 - extractors.exiobase_extractor - INFO - Found emission table: data/raw/exiobase_3.8/emissions_by_country_product.csv
+2025-03-12 09:45:58,729 - utils - INFO - [EXIOBASE] Parsing emission tables
+2025-03-12 09:45:58,735 - extractors.exiobase_extractor - INFO - Parsed table data/raw/exiobase_3.8/emissions_by_country_product.csv with 1029 rows
+2025-03-12 09:45:58,739 - utils - INFO - [EXIOBASE] Extracting emission factors
+2025-03-12 09:45:58,739 - extractors.exiobase_extractor - INFO - Using column 'CO2_Emissions' for emission factors
+2025-03-12 09:45:58,740 - utils - INFO - [EXIOBASE] Standardizing country codes
+2025-03-12 09:45:58,742 - utils - INFO - [EXIOBASE] Cleaning dataset
+2025-03-12 09:45:58,745 - extractors.exiobase_extractor - INFO - Detected 23 outliers in emission factor values
+2025-03-12 09:45:58,750 - utils - INFO - Saved DataFrame with 1029 rows to data/processed/exiobase_3.8_clean.csv
+2025-03-12 09:45:58,756 - utils - INFO - Created checksum 3abd206302f3d19af6e1fcf62041c3cb for data/processed/exiobase_3.8_clean.csv
+2025-03-12 09:45:58,756 - extractors.exiobase_extractor - INFO - Cleaned dataset has 1029 rows
+2025-03-12 09:45:58,756 - extractors.exiobase_extractor - INFO - EXIOBASE extraction and cleaning completed: data/processed/exiobase_3.8_clean.csv
+2025-03-12 09:45:58,756 - __main__ - INFO - Completed exiobase_extractor in 0.51 seconds
+2025-03-12 09:45:58,756 - __main__ - INFO - Successfully extracted and cleaned 9 datasets
+2025-03-12 09:45:58,756 - __main__ - INFO - Starting harmonization process
+2025-03-12 09:45:58,757 - utils - INFO - [HARMONIZATION] Loading datasets
+2025-03-12 09:45:58,759 - harmonization.harmonizer - INFO - Loaded ipcc_efdb dataset with 190 rows
+2025-03-12 09:45:58,760 - harmonization.harmonizer - INFO - Loaded ipcc dataset with 10 rows
+2025-03-12 09:45:58,760 - harmonization.harmonizer - INFO - Loaded useeio dataset with 342 rows
+2025-03-12 09:45:58,761 - harmonization.harmonizer - INFO - Loaded ipcc_ar6 dataset with 78 rows
+2025-03-12 09:45:58,762 - harmonization.harmonizer - INFO - Loaded climate_trace dataset with 50 rows
+2025-03-12 09:45:58,763 - harmonization.harmonizer - INFO - Loaded agribalyse dataset with 20 rows
+2025-03-12 09:45:58,765 - harmonization.harmonizer - INFO - Loaded greet dataset with 233 rows
+2025-03-12 09:45:58,768 - harmonization.harmonizer - INFO - Loaded openlca dataset with 960 rows
+2025-03-12 09:45:58,769 - harmonization.harmonizer - INFO - Loaded exiobase dataset with 1029 rows
+2025-03-12 09:45:58,769 - utils - INFO - [HARMONIZATION] Creating entity crosswalk
+2025-03-12 09:45:58,823 - harmonization.harmonizer - INFO - Created entity crosswalk with 2160 matches
+2025-03-12 09:45:58,823 - utils - INFO - [HARMONIZATION] Standardizing units
+2025-03-12 09:45:58,824 - harmonization.harmonizer - INFO - Converting 342 values from kg CO2e to kg CO2e in useeio
+2025-03-12 09:45:58,825 - harmonization.harmonizer - INFO - Converting 342 values from g CO2e to kg CO2e in useeio
+2025-03-12 09:45:58,827 - harmonization.harmonizer - INFO - Keeping 78 ratio values as-is in ipcc_ar6
+2025-03-12 09:45:58,827 - harmonization.harmonizer - INFO - Converting 50 values from kg CO2e to kg CO2e in climate_trace
+2025-03-12 09:45:58,827 - harmonization.harmonizer - INFO - Converting 50 values from g CO2e to kg CO2e in climate_trace
+2025-03-12 09:45:58,827 - harmonization.harmonizer - INFO - Converting 20 values from kg CO2e to kg CO2e in agribalyse
+2025-03-12 09:45:58,828 - harmonization.harmonizer - INFO - Converting 20 values from g CO2e to kg CO2e in agribalyse
+2025-03-12 09:45:58,828 - harmonization.harmonizer - INFO - Converting 233 values from g CO2e to kg CO2e in greet
+2025-03-12 09:45:58,829 - harmonization.harmonizer - INFO - Converting 960 values from kg CO2e to kg CO2e in openlca
+2025-03-12 09:45:58,829 - harmonization.harmonizer - INFO - Converting 960 values from g CO2e to kg CO2e in openlca
+2025-03-12 09:45:58,830 - harmonization.harmonizer - INFO - Converting 1029 values from kg CO2e to kg CO2e in exiobase
+2025-03-12 09:45:58,831 - harmonization.harmonizer - INFO - Converting 1029 values from g CO2e to kg CO2e in exiobase
+2025-03-12 09:45:58,832 - utils - INFO - [HARMONIZATION] Applying regional multipliers
+2025-03-12 09:45:58,836 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in ipcc_efdb
+2025-03-12 09:45:58,836 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in ipcc
+2025-03-12 09:45:58,841 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in useeio
+2025-03-12 09:45:58,842 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in climate_trace
+2025-03-12 09:45:58,843 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in agribalyse
+2025-03-12 09:45:58,846 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in greet
+2025-03-12 09:45:58,860 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in openlca
+2025-03-12 09:45:58,874 - harmonization.harmonizer - INFO - Applied regional multipliers to 0 records in exiobase
+2025-03-12 09:45:58,874 - utils - INFO - [HARMONIZATION] Merging datasets
+2025-03-12 09:45:58,880 - harmonization.harmonizer - INFO - Merged 9 datasets into a single dataset with 2912 records
+2025-03-12 09:45:58,880 - utils - INFO - [HARMONIZATION] Generating metadata
+2025-03-12 09:45:58,890 - utils - INFO - Saved DataFrame with 2912 rows to data/processed/harmonized_global_ef_dataset.csv
+2025-03-12 09:45:58,908 - utils - INFO - Created checksum 4a85d58b64ba47771bc53d4404ab0f5f for data/processed/harmonized_global_ef_dataset.csv
+2025-03-12 09:45:58,908 - harmonization.harmonizer - INFO - Harmonized dataset saved to data/processed/harmonized_global_ef_dataset.csv
+2025-03-12 09:45:58,908 - harmonization.harmonizer - INFO - Metadata saved to data/processed/harmonized_global_ef_dataset_metadata.json
+2025-03-12 09:45:58,909 - __main__ - INFO - Harmonization completed: data/processed/harmonized_global_ef_dataset.csv
+2025-03-12 09:45:58,909 - __main__ - INFO - Generating summary report
+2025-03-12 09:45:58,915 - __main__ - INFO - Summary report generated: data/processed/harmonized_dataset_summary.txt
+2025-03-12 09:45:58,915 - __main__ - INFO - Data extraction and processing completed successfully
+2025-03-12 09:45:58,915 - __main__ - INFO - Harmonized dataset: data/processed/harmonized_global_ef_dataset.csv
+2025-03-12 09:45:58,915 - __main__ - INFO - Summary report: data/processed/harmonized_dataset_summary.txt

@@ -1,0 +1,21 @@
+// Schema constraints and indexes for Emission Factor Knowledge Graph
+
+// Uniqueness constraints
+CREATE CONSTRAINT IF NOT EXISTS FOR (ef:EmissionFactor) REQUIRE ef.ef_id IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (r:Region) REQUIRE r.region_code IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (et:EntityType) REQUIRE et.type_id IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (s:Source) REQUIRE s.source_id IS UNIQUE;
+
+// Indexes for performance
+CREATE INDEX IF NOT EXISTS FOR (ef:EmissionFactor) ON (ef.ef_value);
+CREATE INDEX IF NOT EXISTS FOR (ef:EmissionFactor) ON (ef.is_outlier);
+CREATE INDEX IF NOT EXISTS FOR (ef:EmissionFactor) ON (ef.multiplier_applied);
+CREATE INDEX IF NOT EXISTS FOR (r:Region) ON (r.name);
+CREATE INDEX IF NOT EXISTS FOR (et:EntityType) ON (et.type_name);
+CREATE INDEX IF NOT EXISTS FOR (s:Source) ON (s.name);
+
+// Additional index for confidence scores
+CREATE INDEX IF NOT EXISTS FOR (ef:EmissionFactor) ON (ef.confidence);
+
+// Log schema creation
+CALL apoc.log.info('Schema constraints and indexes created successfully'); 

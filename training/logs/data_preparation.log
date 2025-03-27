@@ -1,0 +1,17 @@
+2025-03-13 22:21:15,370 - __main__ - INFO - Connected to Neo4j database at bolt://localhost:7687
+2025-03-13 22:21:15,379 - __main__ - WARNING - Could not connect to Neo4j: {code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.}
+2025-03-13 22:21:15,379 - __main__ - WARNING - Using synthetic data instead
+2025-03-13 22:21:15,379 - __main__ - WARNING - Creating synthetic data - this should only be used for development!
+2025-03-13 22:21:15,386 - __main__ - INFO - Initialized instruction generator with 2000 emission factors
+2025-03-13 22:21:15,401 - __main__ - INFO - Generated 900 basic lookup instructions
+2025-03-13 22:21:15,420 - __main__ - INFO - Generated 62 regional comparison instructions
+2025-03-13 22:21:15,451 - __main__ - INFO - Generated 77 multi-entity analysis instructions
+2025-03-13 22:21:15,455 - __main__ - INFO - Generated 357 methodological instructions
+2025-03-13 22:21:15,456 - __main__ - INFO - Generated 88 edge case instructions
+2025-03-13 22:21:15,459 - __main__ - INFO - Generated 150 verification instructions
+2025-03-13 22:21:15,580 - __main__ - INFO - Augmented 1634 instructions to 4856 total instructions
+2025-03-13 22:21:15,581 - __main__ - INFO - Generated full instruction set with 4856 instructions
+2025-03-13 22:21:15,654 - __main__ - INFO - Saved full instruction set to training/data/instructions.json
+2025-03-13 22:21:15,654 - __main__ - INFO - Saved 3884 training instructions to training/data/instructions_train.json
+2025-03-13 22:21:15,654 - __main__ - INFO - Saved 972 validation instructions to training/data/instructions_val.json
+2025-03-13 22:21:15,654 - __main__ - INFO - Data preparation complete. Training file: training/data/instructions_train.json, Validation file: training/data/instructions_val.json

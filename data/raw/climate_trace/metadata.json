@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-03-13 14:53:59",
+  "source": "Climate_TRACE",
+  "sectors": [
+    "electricity",
+    "transportation",
+    "manufacturing",
+    "buildings",
+    "agriculture"
+  ],
+  "countries": [
+    "USA",
+    "CHN",
+    "IND",
+    "DEU",
+    "FRA",
+    "GBR",
+    "BRA",
+    "RUS",
+    "JPN",
+    "CAN",
+    "AUS",
+    "ZAF",
+    "MEX",
+    "IDN",
+    "KOR",
+    "SAU",
+    "TUR",
+    "ITA",
+    "ESP",
+    "NLD"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "note": "Enhanced simulated data based on Climate TRACE structure"
+}

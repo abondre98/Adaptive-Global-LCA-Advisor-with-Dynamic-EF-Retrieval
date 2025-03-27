@@ -13,7 +13,6 @@ import random
 from typing import Any, Dict, List, Tuple
 
 import pandas as pd
-from datasets import Dataset, load_dataset
 from tqdm import tqdm
 
 from neo4j import GraphDatabase
@@ -728,60 +727,6 @@ def create_synthetic_ef_data(count: int = 500) -> List[Dict[str, Any]]:
         synthetic_data.append(synthetic_record)
 
     return synthetic_data
-
-
-def load_and_prepare_data(
-    dataset_path="data/processed/harmonized_global_ef_dataset.csv",
-):
-    """Load and prepare the dataset for training."""
-    # Load the harmonized dataset
-    df = pd.read_csv(dataset_path)
-
-    # Create instruction-response pairs
-    def create_instruction(row):
-        return {
-            "instruction": f"What is the emission factor for {row['entity_name']} in {row['region']}?",
-            "input": "",
-            "output": f"The emission factor for {row['entity_name']} in {row['region']} is {row['ef_value']} {row['ef_unit']}. This data comes from {row['source_dataset']} with a confidence score of {row['confidence']}.",
-        }
-
-    # Convert dataset to instruction format
-    instructions = df.apply(create_instruction, axis=1).tolist()
-
-    # Split into train/val sets (90/10 split)
-    train_size = int(0.9 * len(instructions))
-    train_instructions = instructions[:train_size]
-    val_instructions = instructions[train_size:]
-
-    # Save instruction datasets
-    with open("training/data/instructions_train.json", "w") as f:
-        json.dump(train_instructions, f)
-    with open("training/data/instructions_val.json", "w") as f:
-        json.dump(val_instructions, f)
-
-    # Load datasets
-    train_data = load_dataset(
-        "json", data_files="training/data/instructions_train.json"
-    )
-    val_data = load_dataset("json", data_files="training/data/instructions_val.json")
-
-    return train_data, val_data
-
-
-def format_instruction(example):
-    """Format the instruction and response for the model."""
-    instruction = example["instruction"]
-    input_text = example["input"]
-    response = example["output"]
-
-    # Format: <s>[INST] Instruction [/INST] Response </s>
-    if input_text:
-        prompt = f"[INST] {instruction}\\n{input_text} [/INST]"
-    else:
-        prompt = f"[INST] {instruction} [/INST]"
-
-    example["text"] = f"<s>{prompt} {response}</s>"
-    return example
 
 
 def main():

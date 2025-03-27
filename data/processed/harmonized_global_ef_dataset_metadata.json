@@ -1,0 +1,80 @@
+{
+  "title": "Harmonized Global Emission Factor Dataset",
+  "description": "A harmonized dataset of emission factors from multiple sources",
+  "version": "1.0",
+  "created_at": "2025-03-13 14:54:17",
+  "source_datasets": [
+    "ipcc_efdb",
+    "ipcc",
+    "useeio",
+    "ipcc_ar6",
+    "climate_trace",
+    "agribalyse",
+    "greet",
+    "openlca",
+    "exiobase"
+  ],
+  "record_count": 23532,
+  "columns": [
+    "entity_id",
+    "entity_name",
+    "entity_type",
+    "ef_value",
+    "ef_unit",
+    "region",
+    "source_dataset",
+    "confidence",
+    "timestamp",
+    "tags",
+    "is_outlier",
+    "metadata",
+    "multiplier_applied",
+    "rationale",
+    "source_page",
+    "id"
+  ],
+  "regions": 86,
+  "entity_types": {
+    "sector": 13560,
+    "product": 3821,
+    "energy": 1490,
+    "manufacturing": 1080,
+    "agriculture": 960,
+    "process": 960,
+    "transportation": 720,
+    "buildings": 540,
+    "fuel_pathway": 233,
+    "multiplier": 88,
+    "industrial_process": 40,
+    "waste": 30,
+    "other": 10
+  },
+  "units": {
+    "kg CO2e": 12406,
+    "kg/USD": 10848,
+    "ratio": 78,
+    "kg/kWh": 38,
+    "kg/TJ": 37,
+    "t/TJ": 31,
+    "kg/t": 24,
+    "g/GJ": 17,
+    "kg/head": 13,
+    "multiplier": 10,
+    "kg/ha": 9,
+    "kg/unit": 8,
+    "kg/year": 7,
+    "g/kg": 6
+  },
+  "confidence_range": [
+    0.5,
+    0.9999717885745072
+  ],
+  "processing_steps": [
+    "Loading cleaned datasets",
+    "Creating entity crosswalk",
+    "Standardizing units",
+    "Applying regional multipliers",
+    "Merging datasets",
+    "Generating metadata"
+  ]
+}
